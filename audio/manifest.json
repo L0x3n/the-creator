@@ -1,176 +1,1663 @@
 {
-  "version": 1,
-  "sampleRate": 48000,
-  "generated": "2026-10-16T00:23:13.727Z",
-  "note": "Fas 0. Alla filer har status prov och får aldrig följa med i ett release-bygge (TILLGANGAR.md).",
-  "cues": [
-    {
-      "id": "sfx_reel_stop_a",
-      "bus": "sfx",
-      "layer": "neutral",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 12000,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_reel_stop_a.webm",
-        "m4a": "audio/sfx_reel_stop_a.mp4"
-      }
-    },
-    {
-      "id": "sfx_reel_stop_b",
-      "bus": "sfx",
-      "layer": "neutral",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 12000,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_reel_stop_b.webm",
-        "m4a": "audio/sfx_reel_stop_b.mp4"
-      }
-    },
-    {
-      "id": "sfx_f_land_1",
-      "bus": "sfx",
-      "layer": "läge",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 21600,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_f_land_1.webm",
-        "m4a": "audio/sfx_f_land_1.mp4"
-      }
-    },
-    {
-      "id": "sfx_f_land_2",
-      "bus": "sfx",
-      "layer": "läge",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 21600,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_f_land_2.webm",
-        "m4a": "audio/sfx_f_land_2.mp4"
-      }
-    },
-    {
-      "id": "sfx_f_land_3",
-      "bus": "sfx",
-      "layer": "läge",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 48000,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_f_land_3.webm",
-        "m4a": "audio/sfx_f_land_3.mp4"
-      }
-    },
-    {
-      "id": "sfx_girl_land",
-      "bus": "sfx",
-      "layer": "läge",
-      "syncAt": 0.12,
-      "channels": 1,
-      "lengthSamples": 43200,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_girl_land.webm",
-        "m4a": "audio/sfx_girl_land.mp4"
-      }
-    },
-    {
-      "id": "sfx_girl_lock",
-      "bus": "sfx",
-      "layer": "läge",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 19200,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_girl_lock.webm",
-        "m4a": "audio/sfx_girl_lock.mp4"
-      }
-    },
-    {
-      "id": "sfx_collect_tick_1",
-      "bus": "sfx",
-      "layer": "firande",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 7200,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_collect_tick_1.webm",
-        "m4a": "audio/sfx_collect_tick_1.mp4"
-      }
-    },
-    {
-      "id": "sfx_mult_up_x2",
-      "bus": "sfx",
-      "layer": "firande",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 16800,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_mult_up_x2.webm",
-        "m4a": "audio/sfx_mult_up_x2.mp4"
-      }
-    },
-    {
-      "id": "sfx_tick_neutral",
-      "bus": "sfx",
-      "layer": "neutral",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 5760,
-      "loopStart": null,
-      "loopEnd": null,
-      "files": {
-        "webm": "audio/sfx_tick_neutral.webm",
-        "m4a": "audio/sfx_tick_neutral.mp4"
-      }
-    },
-    {
-      "id": "mus_base_placeholder",
-      "bus": "music",
-      "layer": "läge",
-      "syncAt": 0,
-      "channels": 2,
-      "lengthSamples": 1545600,
-      "loopStart": 4800,
-      "loopEnd": 1540800,
-      "files": {
-        "webm": "audio/mus_base_placeholder.webm",
-        "m4a": "audio/mus_base_placeholder.mp4"
-      }
-    },
-    {
-      "id": "mus_ps_a_placeholder",
-      "bus": "music",
-      "layer": "läge",
-      "syncAt": 0,
-      "channels": 1,
-      "lengthSamples": 521600,
-      "loopStart": 4800,
-      "loopEnd": 516800,
-      "files": {
-        "webm": "audio/mus_ps_a_placeholder.webm",
-        "m4a": "audio/mus_ps_a_placeholder.mp4"
-      }
-    }
-  ]
+ "version": 2,
+ "sampleRate": 48000,
+ "generated": "2026-10-23T20:53:19.106Z",
+ "note": "Fas 7: tekniska platshållare (status prov) tills kompositören levererar (K-151). Får aldrig följa med i ett release-bygge (TILLGANGAR.md).",
+ "files": [
+  {
+   "id": "stg-base",
+   "group": "grund",
+   "channels": 2,
+   "lengthSamples": 989568,
+   "webm": "audio/stg-base.webm",
+   "m4a": "audio/stg-base.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 344900,
+    "m4a": 327962
+   }
+  },
+  {
+   "id": "stg-bonus",
+   "group": "bonus",
+   "channels": 2,
+   "lengthSamples": 825600,
+   "webm": "audio/stg-bonus.webm",
+   "m4a": "audio/stg-bonus.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 286571,
+    "m4a": 264075
+   }
+  },
+  {
+   "id": "sfx-core",
+   "group": "grund",
+   "channels": 1,
+   "lengthSamples": 3813440,
+   "webm": "audio/sfx-core.webm",
+   "m4a": "audio/sfx-core.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 980639,
+    "m4a": 1037295
+   }
+  },
+  {
+   "id": "sfx-bonus",
+   "group": "bonus",
+   "channels": 1,
+   "lengthSamples": 64800,
+   "webm": "audio/sfx-bonus.webm",
+   "m4a": "audio/sfx-bonus.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 18367,
+    "m4a": 10001
+   }
+  },
+  {
+   "id": "mus_base",
+   "group": "grund",
+   "channels": 2,
+   "lengthSamples": 1545600,
+   "webm": "audio/mus_base.webm",
+   "m4a": "audio/mus_base.mp4",
+   "delay": {
+    "webm": -2,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 465072,
+    "m4a": 524969
+   }
+  },
+  {
+   "id": "mus_ps_a",
+   "group": "grund",
+   "channels": 1,
+   "lengthSamples": 521600,
+   "webm": "audio/mus_ps_a.webm",
+   "m4a": "audio/mus_ps_a.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 91709,
+    "m4a": 134074
+   }
+  },
+  {
+   "id": "mus_ps_b",
+   "group": "grund",
+   "channels": 1,
+   "lengthSamples": 521600,
+   "webm": "audio/mus_ps_b.webm",
+   "m4a": "audio/mus_ps_b.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 133945,
+    "m4a": 99229
+   }
+  },
+  {
+   "id": "mus_fan",
+   "group": "bonusbadd",
+   "channels": 2,
+   "lengthSamples": 1545600,
+   "webm": "audio/mus_fan.webm",
+   "m4a": "audio/mus_fan.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 504086,
+    "m4a": 542331
+   }
+  },
+  {
+   "id": "mus_super_gold",
+   "group": "bonusbadd",
+   "channels": 2,
+   "lengthSamples": 777600,
+   "webm": "audio/mus_super_gold.webm",
+   "m4a": "audio/mus_super_gold.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 330634,
+    "m4a": 277126
+   }
+  },
+  {
+   "id": "mus_bigwin_l1",
+   "group": "stammar",
+   "channels": 2,
+   "lengthSamples": 393600,
+   "webm": "audio/mus_bigwin_l1.webm",
+   "m4a": "audio/mus_bigwin_l1.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 182648,
+    "m4a": 139890
+   }
+  },
+  {
+   "id": "mus_bigwin_l2",
+   "group": "stammar",
+   "channels": 2,
+   "lengthSamples": 393600,
+   "webm": "audio/mus_bigwin_l2.webm",
+   "m4a": "audio/mus_bigwin_l2.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 139892,
+    "m4a": 118440
+   }
+  },
+  {
+   "id": "mus_bigwin_l3",
+   "group": "stammar",
+   "channels": 2,
+   "lengthSamples": 393600,
+   "webm": "audio/mus_bigwin_l3.webm",
+   "m4a": "audio/mus_bigwin_l3.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 149420,
+    "m4a": 113483
+   }
+  },
+  {
+   "id": "mus_bigwin_l4",
+   "group": "stammar",
+   "channels": 2,
+   "lengthSamples": 393600,
+   "webm": "audio/mus_bigwin_l4.webm",
+   "m4a": "audio/mus_bigwin_l4.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 91165,
+    "m4a": 137027
+   }
+  },
+  {
+   "id": "mus_bigwin_l5",
+   "group": "stammar",
+   "channels": 2,
+   "lengthSamples": 393600,
+   "webm": "audio/mus_bigwin_l5.webm",
+   "m4a": "audio/mus_bigwin_l5.mp4",
+   "delay": {
+    "webm": 0,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 176101,
+    "m4a": 103091
+   }
+  },
+  {
+   "id": "mus_maxwin",
+   "group": "maxvinst",
+   "channels": 2,
+   "lengthSamples": 1200000,
+   "webm": "audio/mus_maxwin.webm",
+   "m4a": "audio/mus_maxwin.mp4",
+   "delay": {
+    "webm": -1,
+    "m4a": 0
+   },
+   "bytes": {
+    "webm": 414025,
+    "m4a": 415731
+   }
+  }
+ ],
+ "sounds": [
+  {
+   "id": "mus_bigwin_end_low",
+   "file": "stg-base",
+   "offset": 2400,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_bigwin_end_high",
+   "file": "stg-base",
+   "offset": 52800,
+   "length": 96000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_logo",
+   "file": "stg-base",
+   "offset": 151200,
+   "length": 57600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_ps_start_1",
+   "file": "stg-base",
+   "offset": 211200,
+   "length": 63984,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_ps_start_2",
+   "file": "stg-base",
+   "offset": 277584,
+   "length": 63984,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_ps_end_1",
+   "file": "stg-base",
+   "offset": 343968,
+   "length": 38400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_ps_end_2",
+   "file": "stg-base",
+   "offset": 384768,
+   "length": 38400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_fan_trigger",
+   "file": "stg-base",
+   "offset": 425568,
+   "length": 86400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_super_trigger",
+   "file": "stg-base",
+   "offset": 514368,
+   "length": 86400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_transition_in",
+   "file": "stg-base",
+   "offset": 603168,
+   "length": 72000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_tier_1",
+   "file": "stg-base",
+   "offset": 677568,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_tier_2",
+   "file": "stg-base",
+   "offset": 727968,
+   "length": 54000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_tier_3",
+   "file": "stg-base",
+   "offset": 784368,
+   "length": 60000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_tier_4",
+   "file": "stg-base",
+   "offset": 846768,
+   "length": 66000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_tier_5",
+   "file": "stg-base",
+   "offset": 915168,
+   "length": 72000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_transition_out",
+   "file": "stg-bonus",
+   "offset": 2400,
+   "length": 24000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_fan_intro",
+   "file": "stg-bonus",
+   "offset": 28800,
+   "length": 96000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_super_intro",
+   "file": "stg-bonus",
+   "offset": 127200,
+   "length": 120000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_retrigger",
+   "file": "stg-bonus",
+   "offset": 249600,
+   "length": 86400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_last_spin",
+   "file": "stg-bonus",
+   "offset": 338400,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_outro",
+   "file": "stg-bonus",
+   "offset": 384000,
+   "length": 192000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_outro_celebration",
+   "file": "stg-bonus",
+   "offset": 578400,
+   "length": 96000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_spin_sign_1",
+   "file": "stg-bonus",
+   "offset": 676800,
+   "length": 72000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "stg_spin_sign_2",
+   "file": "stg-bonus",
+   "offset": 751200,
+   "length": 72000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_spin_press_1",
+   "file": "sfx-core",
+   "offset": 2400,
+   "length": 5760,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_spin_press_2",
+   "file": "sfx-core",
+   "offset": 10560,
+   "length": 5760,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_spin_press_3",
+   "file": "sfx-core",
+   "offset": 18720,
+   "length": 5760,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_start_1",
+   "file": "sfx-core",
+   "offset": 26880,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_start_2",
+   "file": "sfx-core",
+   "offset": 46080,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_start_3",
+   "file": "sfx-core",
+   "offset": 65280,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_thud_1",
+   "file": "sfx-core",
+   "offset": 84480,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_thud_2",
+   "file": "sfx-core",
+   "offset": 98880,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_thud_3",
+   "file": "sfx-core",
+   "offset": 113280,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_thud_4",
+   "file": "sfx-core",
+   "offset": 127680,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_tick_a4",
+   "file": "sfx-core",
+   "offset": 142080,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_tick_c5",
+   "file": "sfx-core",
+   "offset": 156480,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_tick_d5",
+   "file": "sfx-core",
+   "offset": 170880,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_tick_e5",
+   "file": "sfx-core",
+   "offset": 185280,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_tick_a5",
+   "file": "sfx-core",
+   "offset": 199680,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_turbo_1",
+   "file": "sfx-core",
+   "offset": 214080,
+   "length": 14400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_reel_stop_turbo_2",
+   "file": "sfx-core",
+   "offset": 230880,
+   "length": 14400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_respin_1",
+   "file": "sfx-core",
+   "offset": 247680,
+   "length": 14400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_respin_2",
+   "file": "sfx-core",
+   "offset": 264480,
+   "length": 14400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_land_1_1",
+   "file": "sfx-core",
+   "offset": 281280,
+   "length": 21600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_land_1_2",
+   "file": "sfx-core",
+   "offset": 305280,
+   "length": 21600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_land_2_1",
+   "file": "sfx-core",
+   "offset": 329280,
+   "length": 21600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_land_2_2",
+   "file": "sfx-core",
+   "offset": 353280,
+   "length": 21600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_land_3",
+   "file": "sfx-core",
+   "offset": 377280,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_land_4",
+   "file": "sfx-core",
+   "offset": 427680,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_land_5",
+   "file": "sfx-core",
+   "offset": 478080,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_in_fan",
+   "file": "sfx-core",
+   "offset": 528480,
+   "length": 19200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_in_gold",
+   "file": "sfx-core",
+   "offset": 550080,
+   "length": 19200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_loop_fan",
+   "file": "sfx-core",
+   "offset": 571680,
+   "length": 73600,
+   "loopStart": 576480,
+   "loopEnd": 640480,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_loop_gold",
+   "file": "sfx-core",
+   "offset": 647680,
+   "length": 73600,
+   "loopStart": 652480,
+   "loopEnd": 716480,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_out_fan",
+   "file": "sfx-core",
+   "offset": 723680,
+   "length": 28800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_out_gold",
+   "file": "sfx-core",
+   "offset": 754880,
+   "length": 28800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_girl_1",
+   "file": "sfx-core",
+   "offset": 786080,
+   "length": 28800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_antic_girl_2",
+   "file": "sfx-core",
+   "offset": 817280,
+   "length": 28800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_trigger_fan",
+   "file": "sfx-core",
+   "offset": 848480,
+   "length": 72000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_f_trigger_super",
+   "file": "sfx-core",
+   "offset": 922880,
+   "length": 72000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_girl_land_1",
+   "file": "sfx-core",
+   "offset": 997280,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_girl_land_2",
+   "file": "sfx-core",
+   "offset": 1042880,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_girl_land_3",
+   "file": "sfx-core",
+   "offset": 1088480,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_girl_lock_1",
+   "file": "sfx-core",
+   "offset": 1134080,
+   "length": 19200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_girl_lock_2",
+   "file": "sfx-core",
+   "offset": 1155680,
+   "length": 19200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_girl_hum",
+   "file": "sfx-core",
+   "offset": 1177280,
+   "length": 105600,
+   "loopStart": 1182080,
+   "loopEnd": 1278080,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_fly_1",
+   "file": "sfx-core",
+   "offset": 1285280,
+   "length": 20160,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_fly_2",
+   "file": "sfx-core",
+   "offset": 1307840,
+   "length": 20160,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_fly_3",
+   "file": "sfx-core",
+   "offset": 1330400,
+   "length": 20160,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_thud_1",
+   "file": "sfx-core",
+   "offset": 1352960,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_thud_2",
+   "file": "sfx-core",
+   "offset": 1362560,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_a5",
+   "file": "sfx-core",
+   "offset": 1372160,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_c6",
+   "file": "sfx-core",
+   "offset": 1381760,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_d6",
+   "file": "sfx-core",
+   "offset": 1391360,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_e6",
+   "file": "sfx-core",
+   "offset": 1400960,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_g6",
+   "file": "sfx-core",
+   "offset": 1410560,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_a6",
+   "file": "sfx-core",
+   "offset": 1420160,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_c7",
+   "file": "sfx-core",
+   "offset": 1429760,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_collect_tick_d7",
+   "file": "sfx-core",
+   "offset": 1439360,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_click_1",
+   "file": "sfx-core",
+   "offset": 1448960,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_click_2",
+   "file": "sfx-core",
+   "offset": 1468160,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_a4",
+   "file": "sfx-core",
+   "offset": 1487360,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_c5",
+   "file": "sfx-core",
+   "offset": 1506560,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_d5",
+   "file": "sfx-core",
+   "offset": 1525760,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_e5",
+   "file": "sfx-core",
+   "offset": 1544960,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_g5",
+   "file": "sfx-core",
+   "offset": 1564160,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_a5",
+   "file": "sfx-core",
+   "offset": 1583360,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_c6",
+   "file": "sfx-core",
+   "offset": 1602560,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_d6",
+   "file": "sfx-core",
+   "offset": 1621760,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_e6",
+   "file": "sfx-core",
+   "offset": 1640960,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_g6",
+   "file": "sfx-core",
+   "offset": 1660160,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_up_sparkle",
+   "file": "sfx-core",
+   "offset": 1679360,
+   "length": 16800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_apply_whoosh_1",
+   "file": "sfx-core",
+   "offset": 1698560,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_apply_whoosh_2",
+   "file": "sfx-core",
+   "offset": 1744160,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_apply_hit_1",
+   "file": "sfx-core",
+   "offset": 1789760,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_mult_apply_hit_2",
+   "file": "sfx-core",
+   "offset": 1835360,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_full_house",
+   "file": "sfx-core",
+   "offset": 1880960,
+   "length": 72000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_result_neutral_1",
+   "file": "sfx-core",
+   "offset": 1955360,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_result_neutral_2",
+   "file": "sfx-core",
+   "offset": 1969760,
+   "length": 12000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l1_1",
+   "file": "sfx-core",
+   "offset": 1984160,
+   "length": 40800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l1_2",
+   "file": "sfx-core",
+   "offset": 2027360,
+   "length": 40800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l1_3",
+   "file": "sfx-core",
+   "offset": 2070560,
+   "length": 40800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l2_1",
+   "file": "sfx-core",
+   "offset": 2113760,
+   "length": 60000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l2_2",
+   "file": "sfx-core",
+   "offset": 2176160,
+   "length": 60000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l2_3",
+   "file": "sfx-core",
+   "offset": 2238560,
+   "length": 60000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l3_1",
+   "file": "sfx-core",
+   "offset": 2300960,
+   "length": 84000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l3_2",
+   "file": "sfx-core",
+   "offset": 2387360,
+   "length": 84000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l4_1",
+   "file": "sfx-core",
+   "offset": 2473760,
+   "length": 108000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_win_l4_2",
+   "file": "sfx-core",
+   "offset": 2584160,
+   "length": 108000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_low_1",
+   "file": "sfx-core",
+   "offset": 2694560,
+   "length": 19200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_low_2",
+   "file": "sfx-core",
+   "offset": 2716160,
+   "length": 19200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h1_1",
+   "file": "sfx-core",
+   "offset": 2737760,
+   "length": 38400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h1_2",
+   "file": "sfx-core",
+   "offset": 2778560,
+   "length": 38400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h2_1",
+   "file": "sfx-core",
+   "offset": 2819360,
+   "length": 40800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h2_2",
+   "file": "sfx-core",
+   "offset": 2862560,
+   "length": 40800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h3_1",
+   "file": "sfx-core",
+   "offset": 2905760,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h3_2",
+   "file": "sfx-core",
+   "offset": 2951360,
+   "length": 43200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h4_1",
+   "file": "sfx-core",
+   "offset": 2996960,
+   "length": 45600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h4_2",
+   "file": "sfx-core",
+   "offset": 3044960,
+   "length": 45600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h5_1",
+   "file": "sfx-core",
+   "offset": 3092960,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_sym_h5_2",
+   "file": "sfx-core",
+   "offset": 3143360,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_coin_loop",
+   "file": "sfx-core",
+   "offset": 3193760,
+   "length": 201600,
+   "loopStart": 3198560,
+   "loopEnd": 3390560,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_coin_loop_l3",
+   "file": "sfx-core",
+   "offset": 3397760,
+   "length": 105600,
+   "loopStart": 3402560,
+   "loopEnd": 3498560,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_coin_loop_l5",
+   "file": "sfx-core",
+   "offset": 3505760,
+   "length": 105600,
+   "loopStart": 3510560,
+   "loopEnd": 3606560,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_skip",
+   "file": "sfx-core",
+   "offset": 3613760,
+   "length": 9600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_play",
+   "file": "sfx-core",
+   "offset": 3625760,
+   "length": 14400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_tap_1",
+   "file": "sfx-core",
+   "offset": 3642560,
+   "length": 2880,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_tap_2",
+   "file": "sfx-core",
+   "offset": 3647840,
+   "length": 2880,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_tap_3",
+   "file": "sfx-core",
+   "offset": 3653120,
+   "length": 2880,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_bet_up",
+   "file": "sfx-core",
+   "offset": 3658400,
+   "length": 4800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_bet_down",
+   "file": "sfx-core",
+   "offset": 3665600,
+   "length": 4800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_double_chance_on",
+   "file": "sfx-core",
+   "offset": 3672800,
+   "length": 5760,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_double_chance_off",
+   "file": "sfx-core",
+   "offset": 3680960,
+   "length": 5760,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_menu_open",
+   "file": "sfx-core",
+   "offset": 3689120,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_menu_close",
+   "file": "sfx-core",
+   "offset": 3698720,
+   "length": 7200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_toggle_on",
+   "file": "sfx-core",
+   "offset": 3708320,
+   "length": 4800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_toggle_off",
+   "file": "sfx-core",
+   "offset": 3715520,
+   "length": 4800,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_autoplay_start",
+   "file": "sfx-core",
+   "offset": 3722720,
+   "length": 9600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_autoplay_stop",
+   "file": "sfx-core",
+   "offset": 3734720,
+   "length": 9600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_error",
+   "file": "sfx-core",
+   "offset": 3746720,
+   "length": 9600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_page_1",
+   "file": "sfx-core",
+   "offset": 3758720,
+   "length": 5760,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_page_2",
+   "file": "sfx-core",
+   "offset": 3766880,
+   "length": 5760,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_buy_open",
+   "file": "sfx-core",
+   "offset": 3775040,
+   "length": 14400,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "ui_buy_confirm",
+   "file": "sfx-core",
+   "offset": 3791840,
+   "length": 19200,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_spins_counter",
+   "file": "sfx-bonus",
+   "offset": 2400,
+   "length": 9600,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "sfx_total_panel",
+   "file": "sfx-bonus",
+   "offset": 14400,
+   "length": 48000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_base",
+   "file": "mus_base",
+   "offset": 0,
+   "length": 1545600,
+   "loopStart": 4800,
+   "loopEnd": 1540800,
+   "asset": "T-044"
+  },
+  {
+   "id": "mus_ps_a",
+   "file": "mus_ps_a",
+   "offset": 0,
+   "length": 521600,
+   "loopStart": 4800,
+   "loopEnd": 516800,
+   "asset": "T-044"
+  },
+  {
+   "id": "mus_ps_b",
+   "file": "mus_ps_b",
+   "offset": 0,
+   "length": 521600,
+   "loopStart": 4800,
+   "loopEnd": 516800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_fan",
+   "file": "mus_fan",
+   "offset": 0,
+   "length": 1545600,
+   "loopStart": 4800,
+   "loopEnd": 1540800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_super_gold",
+   "file": "mus_super_gold",
+   "offset": 0,
+   "length": 777600,
+   "loopStart": 4800,
+   "loopEnd": 772800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_bigwin_l1",
+   "file": "mus_bigwin_l1",
+   "offset": 0,
+   "length": 393600,
+   "loopStart": 4800,
+   "loopEnd": 388800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_bigwin_l2",
+   "file": "mus_bigwin_l2",
+   "offset": 0,
+   "length": 393600,
+   "loopStart": 4800,
+   "loopEnd": 388800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_bigwin_l3",
+   "file": "mus_bigwin_l3",
+   "offset": 0,
+   "length": 393600,
+   "loopStart": 4800,
+   "loopEnd": 388800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_bigwin_l4",
+   "file": "mus_bigwin_l4",
+   "offset": 0,
+   "length": 393600,
+   "loopStart": 4800,
+   "loopEnd": 388800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_bigwin_l5",
+   "file": "mus_bigwin_l5",
+   "offset": 0,
+   "length": 393600,
+   "loopStart": 4800,
+   "loopEnd": 388800,
+   "asset": "T-083"
+  },
+  {
+   "id": "mus_maxwin",
+   "file": "mus_maxwin",
+   "offset": 0,
+   "length": 1200000,
+   "loopStart": null,
+   "loopEnd": null,
+   "asset": "T-083"
+  }
+ ]
 }
