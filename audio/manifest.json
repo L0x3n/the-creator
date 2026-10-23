@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "sampleRate": 48000,
+  "generated": "2026-10-16T00:23:13.727Z",
+  "note": "Fas 0. Alla filer har status prov och får aldrig följa med i ett release-bygge (TILLGANGAR.md).",
+  "cues": [
+    {
+      "id": "sfx_reel_stop_a",
+      "bus": "sfx",
+      "layer": "neutral",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 12000,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_reel_stop_a.webm",
+        "m4a": "audio/sfx_reel_stop_a.mp4"
+      }
+    },
+    {
+      "id": "sfx_reel_stop_b",
+      "bus": "sfx",
+      "layer": "neutral",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 12000,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_reel_stop_b.webm",
+        "m4a": "audio/sfx_reel_stop_b.mp4"
+      }
+    },
+    {
+      "id": "sfx_f_land_1",
+      "bus": "sfx",
+      "layer": "läge",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 21600,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_f_land_1.webm",
+        "m4a": "audio/sfx_f_land_1.mp4"
+      }
+    },
+    {
+      "id": "sfx_f_land_2",
+      "bus": "sfx",
+      "layer": "läge",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 21600,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_f_land_2.webm",
+        "m4a": "audio/sfx_f_land_2.mp4"
+      }
+    },
+    {
+      "id": "sfx_f_land_3",
+      "bus": "sfx",
+      "layer": "läge",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 48000,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_f_land_3.webm",
+        "m4a": "audio/sfx_f_land_3.mp4"
+      }
+    },
+    {
+      "id": "sfx_girl_land",
+      "bus": "sfx",
+      "layer": "läge",
+      "syncAt": 0.12,
+      "channels": 1,
+      "lengthSamples": 43200,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_girl_land.webm",
+        "m4a": "audio/sfx_girl_land.mp4"
+      }
+    },
+    {
+      "id": "sfx_girl_lock",
+      "bus": "sfx",
+      "layer": "läge",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 19200,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_girl_lock.webm",
+        "m4a": "audio/sfx_girl_lock.mp4"
+      }
+    },
+    {
+      "id": "sfx_collect_tick_1",
+      "bus": "sfx",
+      "layer": "firande",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 7200,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_collect_tick_1.webm",
+        "m4a": "audio/sfx_collect_tick_1.mp4"
+      }
+    },
+    {
+      "id": "sfx_mult_up_x2",
+      "bus": "sfx",
+      "layer": "firande",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 16800,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_mult_up_x2.webm",
+        "m4a": "audio/sfx_mult_up_x2.mp4"
+      }
+    },
+    {
+      "id": "sfx_tick_neutral",
+      "bus": "sfx",
+      "layer": "neutral",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 5760,
+      "loopStart": null,
+      "loopEnd": null,
+      "files": {
+        "webm": "audio/sfx_tick_neutral.webm",
+        "m4a": "audio/sfx_tick_neutral.mp4"
+      }
+    },
+    {
+      "id": "mus_base_placeholder",
+      "bus": "music",
+      "layer": "läge",
+      "syncAt": 0,
+      "channels": 2,
+      "lengthSamples": 1545600,
+      "loopStart": 4800,
+      "loopEnd": 1540800,
+      "files": {
+        "webm": "audio/mus_base_placeholder.webm",
+        "m4a": "audio/mus_base_placeholder.mp4"
+      }
+    },
+    {
+      "id": "mus_ps_a_placeholder",
+      "bus": "music",
+      "layer": "läge",
+      "syncAt": 0,
+      "channels": 1,
+      "lengthSamples": 521600,
+      "loopStart": 4800,
+      "loopEnd": 516800,
+      "files": {
+        "webm": "audio/mus_ps_a_placeholder.webm",
+        "m4a": "audio/mus_ps_a_placeholder.mp4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1580 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": []
+    },
+    {
+      "name": "bas",
+      "assets": [
+        {
+          "alias": [
+            "bas/bakgrund-grund/bakgrund-grund-liggande-hog.webp",
+            "bas/bakgrund-grund/bakgrund-grund-liggande-hog"
+          ],
+          "src": [
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-liggande-hog.basis.ktx2",
+              "progressSize": 211.83
+            },
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-liggande-hog.webp",
+              "progressSize": 106.65
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/bakgrund-grund/bakgrund-grund-liggande.webp",
+            "bas/bakgrund-grund/bakgrund-grund-liggande"
+          ],
+          "src": [
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-liggande.basis.ktx2",
+              "progressSize": 137.41
+            },
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-liggande.webp",
+              "progressSize": 70.78
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/bakgrund-grund/bakgrund-grund-staende-hog.webp",
+            "bas/bakgrund-grund/bakgrund-grund-staende-hog"
+          ],
+          "src": [
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-staende-hog.basis.ktx2",
+              "progressSize": 208
+            },
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-staende-hog.webp",
+              "progressSize": 105.61
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/bakgrund-grund/bakgrund-grund-staende.webp",
+            "bas/bakgrund-grund/bakgrund-grund-staende"
+          ],
+          "src": [
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-staende.basis.ktx2",
+              "progressSize": 134.4
+            },
+            {
+              "src": "bas/bakgrund-grund/bakgrund-grund-staende.webp",
+              "progressSize": 70.56
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/celler-2-4"
+          ],
+          "src": [
+            {
+              "src": "bas/celler-2-4@2x.webp.json",
+              "progressSize": 857.81
+            },
+            {
+              "src": "bas/celler-2-4@2x.basis.json",
+              "progressSize": 2182.34
+            },
+            {
+              "src": "bas/celler-2-4@0.5x.webp.json",
+              "progressSize": 153.33
+            },
+            {
+              "src": "bas/celler-2-4@0.5x.basis.json",
+              "progressSize": 229.65
+            },
+            {
+              "src": "bas/celler-2-4.webp.json",
+              "progressSize": 361.59
+            },
+            {
+              "src": "bas/celler-2-4.basis.json",
+              "progressSize": 710.62
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/celler-5-7"
+          ],
+          "src": [
+            {
+              "src": "bas/celler-5-7@2x.webp.json",
+              "progressSize": 582.94
+            },
+            {
+              "src": "bas/celler-5-7@2x.basis.json",
+              "progressSize": 1295.76
+            },
+            {
+              "src": "bas/celler-5-7@0.5x.webp.json",
+              "progressSize": 104.06
+            },
+            {
+              "src": "bas/celler-5-7@0.5x.basis.json",
+              "progressSize": 143.52
+            },
+            {
+              "src": "bas/celler-5-7.webp.json",
+              "progressSize": 248.26
+            },
+            {
+              "src": "bas/celler-5-7.basis.json",
+              "progressSize": 437.55
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/glod"
+          ],
+          "src": [
+            {
+              "src": "bas/glod@0.5x.webp.json",
+              "progressSize": 170.3
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true,
+              "fix": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/kameraon"
+          ],
+          "src": [
+            {
+              "src": "bas/kameraon@2x.webp.json",
+              "progressSize": 13.74
+            },
+            {
+              "src": "bas/kameraon@2x.basis.json",
+              "progressSize": 14.73
+            },
+            {
+              "src": "bas/kameraon@0.5x.webp.json",
+              "progressSize": 4.03
+            },
+            {
+              "src": "bas/kameraon@0.5x.basis.json",
+              "progressSize": 4.91
+            },
+            {
+              "src": "bas/kameraon.webp.json",
+              "progressSize": 7.69
+            },
+            {
+              "src": "bas/kameraon.basis.json",
+              "progressSize": 10.01
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/kopruta"
+          ],
+          "src": [
+            {
+              "src": "bas/kopruta@2x.webp.json",
+              "progressSize": 119.7
+            },
+            {
+              "src": "bas/kopruta@2x.basis.json",
+              "progressSize": 236.09
+            },
+            {
+              "src": "bas/kopruta@0.5x.webp.json",
+              "progressSize": 22.08
+            },
+            {
+              "src": "bas/kopruta@0.5x.basis.json",
+              "progressSize": 36.28
+            },
+            {
+              "src": "bas/kopruta.webp.json",
+              "progressSize": 53.8
+            },
+            {
+              "src": "bas/kopruta.basis.json",
+              "progressSize": 89.79
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/partiklar"
+          ],
+          "src": [
+            {
+              "src": "bas/partiklar@2x.webp.json",
+              "progressSize": 194.52
+            },
+            {
+              "src": "bas/partiklar@2x.basis.json",
+              "progressSize": 239.12
+            },
+            {
+              "src": "bas/partiklar@0.5x.webp.json",
+              "progressSize": 33.92
+            },
+            {
+              "src": "bas/partiklar@0.5x.basis.json",
+              "progressSize": 30.47
+            },
+            {
+              "src": "bas/partiklar.webp.json",
+              "progressSize": 83.91
+            },
+            {
+              "src": "bas/partiklar.basis.json",
+              "progressSize": 90.64
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/ram-bas-staende"
+          ],
+          "src": [
+            {
+              "src": "bas/ram-bas-staende@2x.webp.json",
+              "progressSize": 34.69
+            },
+            {
+              "src": "bas/ram-bas-staende@2x.basis.json",
+              "progressSize": 30.47
+            },
+            {
+              "src": "bas/ram-bas-staende@0.5x.webp.json",
+              "progressSize": 5.57
+            },
+            {
+              "src": "bas/ram-bas-staende@0.5x.basis.json",
+              "progressSize": 9.4
+            },
+            {
+              "src": "bas/ram-bas-staende.webp.json",
+              "progressSize": 13.45
+            },
+            {
+              "src": "bas/ram-bas-staende.basis.json",
+              "progressSize": 20.85
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/ram-bas"
+          ],
+          "src": [
+            {
+              "src": "bas/ram-bas@2x.webp.json",
+              "progressSize": 44.82
+            },
+            {
+              "src": "bas/ram-bas@2x.basis.json",
+              "progressSize": 57.47
+            },
+            {
+              "src": "bas/ram-bas@0.5x.webp.json",
+              "progressSize": 7.63
+            },
+            {
+              "src": "bas/ram-bas@0.5x.basis.json",
+              "progressSize": 20.71
+            },
+            {
+              "src": "bas/ram-bas.webp.json",
+              "progressSize": 17.75
+            },
+            {
+              "src": "bas/ram-bas.basis.json",
+              "progressSize": 41.31
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/riggar-2-3"
+          ],
+          "src": [
+            {
+              "src": "bas/riggar-2-3@2x.webp.json",
+              "progressSize": 661.93
+            },
+            {
+              "src": "bas/riggar-2-3@2x.basis.json",
+              "progressSize": 1285.76
+            },
+            {
+              "src": "bas/riggar-2-3@0.5x.webp.json",
+              "progressSize": 139.05
+            },
+            {
+              "src": "bas/riggar-2-3@0.5x.basis.json",
+              "progressSize": 157.77
+            },
+            {
+              "src": "bas/riggar-2-3.webp.json",
+              "progressSize": 298.71
+            },
+            {
+              "src": "bas/riggar-2-3.basis.json",
+              "progressSize": 438.42
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/riggar-4-7"
+          ],
+          "src": [
+            {
+              "src": "bas/riggar-4-7@2x.webp.json",
+              "progressSize": 1034.23
+            },
+            {
+              "src": "bas/riggar-4-7@2x.basis.json",
+              "progressSize": 1819.49
+            },
+            {
+              "src": "bas/riggar-4-7@0.5x.webp.json",
+              "progressSize": 220.48
+            },
+            {
+              "src": "bas/riggar-4-7@0.5x.basis.json",
+              "progressSize": 239.13
+            },
+            {
+              "src": "bas/riggar-4-7.webp.json",
+              "progressSize": 466.39
+            },
+            {
+              "src": "bas/riggar-4-7.basis.json",
+              "progressSize": 637.27
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/scatter-notis"
+          ],
+          "src": [
+            {
+              "src": "bas/scatter-notis@2x.webp.json",
+              "progressSize": 88.44
+            },
+            {
+              "src": "bas/scatter-notis@2x.basis.json",
+              "progressSize": 74.89
+            },
+            {
+              "src": "bas/scatter-notis@0.5x.webp.json",
+              "progressSize": 20.38
+            },
+            {
+              "src": "bas/scatter-notis@0.5x.basis.json",
+              "progressSize": 16.87
+            },
+            {
+              "src": "bas/scatter-notis.webp.json",
+              "progressSize": 38.27
+            },
+            {
+              "src": "bas/scatter-notis.basis.json",
+              "progressSize": 33.59
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/scatter-sken"
+          ],
+          "src": [
+            {
+              "src": "bas/scatter-sken@0.5x.webp.json",
+              "progressSize": 134.07
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true,
+              "fix": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/suddig-2-4"
+          ],
+          "src": [
+            {
+              "src": "bas/suddig-2-4@0.5x.webp.json",
+              "progressSize": 124.63
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true,
+              "fix": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/suddig-5-7"
+          ],
+          "src": [
+            {
+              "src": "bas/suddig-5-7@0.5x.webp.json",
+              "progressSize": 93.32
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true,
+              "fix": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/tjejen-fx"
+          ],
+          "src": [
+            {
+              "src": "bas/tjejen-fx@0.5x.webp.json",
+              "progressSize": 4.34
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true,
+              "fix": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/tjejen-lasram.png",
+            "bas/tjejen-lasram"
+          ],
+          "src": [
+            {
+              "src": "bas/tjejen-lasram@2x.png",
+              "progressSize": 58.75
+            },
+            {
+              "src": "bas/tjejen-lasram@0.5x.png",
+              "progressSize": 5.56
+            },
+            {
+              "src": "bas/tjejen-lasram.png",
+              "progressSize": 18.93
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/typsnitt/multiplikator.fnt",
+            "bas/typsnitt/multiplikator"
+          ],
+          "src": [
+            {
+              "src": "bas/typsnitt/multiplikator.fnt",
+              "progressSize": 3.13
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/typsnitt/multiplikator@2x.fnt",
+            "bas/typsnitt/multiplikator@2x"
+          ],
+          "src": [
+            {
+              "src": "bas/typsnitt/multiplikator@2x.fnt",
+              "progressSize": 3.8
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/typsnitt/ui.fnt",
+            "bas/typsnitt/ui"
+          ],
+          "src": [
+            {
+              "src": "bas/typsnitt/ui.fnt",
+              "progressSize": 197.87
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/typsnitt/ui@2x.fnt",
+            "bas/typsnitt/ui@2x"
+          ],
+          "src": [
+            {
+              "src": "bas/typsnitt/ui@2x.fnt",
+              "progressSize": 246.63
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/typsnitt/vinst.fnt",
+            "bas/typsnitt/vinst"
+          ],
+          "src": [
+            {
+              "src": "bas/typsnitt/vinst.fnt",
+              "progressSize": 17.99
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/typsnitt/vinst@2x.fnt",
+            "bas/typsnitt/vinst@2x"
+          ],
+          "src": [
+            {
+              "src": "bas/typsnitt/vinst@2x.fnt",
+              "progressSize": 18.16
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "bas/ui"
+          ],
+          "src": [
+            {
+              "src": "bas/ui@2x.webp.json",
+              "progressSize": 181.09
+            },
+            {
+              "src": "bas/ui@2x.basis.json",
+              "progressSize": 190.05
+            },
+            {
+              "src": "bas/ui@0.5x.webp.json",
+              "progressSize": 48.24
+            },
+            {
+              "src": "bas/ui@0.5x.basis.json",
+              "progressSize": 49.3
+            },
+            {
+              "src": "bas/ui.webp.json",
+              "progressSize": 110.54
+            },
+            {
+              "src": "bas/ui.basis.json",
+              "progressSize": 119.26
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "boot",
+      "assets": [
+        {
+          "alias": [
+            "boot/laddning"
+          ],
+          "src": [
+            {
+              "src": "boot/laddning@2x.webp.json",
+              "progressSize": 20.17
+            },
+            {
+              "src": "boot/laddning@2x.basis.json",
+              "progressSize": 16.29
+            },
+            {
+              "src": "boot/laddning@0.5x.webp.json",
+              "progressSize": 5.04
+            },
+            {
+              "src": "boot/laddning@0.5x.basis.json",
+              "progressSize": 4.98
+            },
+            {
+              "src": "boot/laddning.webp.json",
+              "progressSize": 10.45
+            },
+            {
+              "src": "boot/laddning.basis.json",
+              "progressSize": 11.63
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "boot/logga-laddning"
+          ],
+          "src": [
+            {
+              "src": "boot/logga-laddning@2x.webp.json",
+              "progressSize": 148.15
+            },
+            {
+              "src": "boot/logga-laddning@2x.basis.json",
+              "progressSize": 214.01
+            },
+            {
+              "src": "boot/logga-laddning@0.5x.webp.json",
+              "progressSize": 38.89
+            },
+            {
+              "src": "boot/logga-laddning@0.5x.basis.json",
+              "progressSize": 46.64
+            },
+            {
+              "src": "boot/logga-laddning.webp.json",
+              "progressSize": 84.36
+            },
+            {
+              "src": "boot/logga-laddning.basis.json",
+              "progressSize": 121.37
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "boot/studio"
+          ],
+          "src": [
+            {
+              "src": "boot/studio@2x.webp.json",
+              "progressSize": 601.7
+            },
+            {
+              "src": "boot/studio@2x.basis.json",
+              "progressSize": 620.43
+            },
+            {
+              "src": "boot/studio@0.5x.webp.json",
+              "progressSize": 125.85
+            },
+            {
+              "src": "boot/studio@0.5x.basis.json",
+              "progressSize": 136.14
+            },
+            {
+              "src": "boot/studio.webp.json",
+              "progressSize": 299.23
+            },
+            {
+              "src": "boot/studio.basis.json",
+              "progressSize": 350.72
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "fan",
+      "assets": [
+        {
+          "alias": [
+            "fan/bakgrund-live/bakgrund-live-liggande-hog.webp",
+            "fan/bakgrund-live/bakgrund-live-liggande-hog"
+          ],
+          "src": [
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-liggande-hog.basis.ktx2",
+              "progressSize": 237.56
+            },
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-liggande-hog.webp",
+              "progressSize": 115.88
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "fan/bakgrund-live/bakgrund-live-liggande.webp",
+            "fan/bakgrund-live/bakgrund-live-liggande"
+          ],
+          "src": [
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-liggande.basis.ktx2",
+              "progressSize": 152.87
+            },
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-liggande.webp",
+              "progressSize": 75.86
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "fan/bakgrund-live/bakgrund-live-staende-hog.webp",
+            "fan/bakgrund-live/bakgrund-live-staende-hog"
+          ],
+          "src": [
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-staende-hog.basis.ktx2",
+              "progressSize": 202.89
+            },
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-staende-hog.webp",
+              "progressSize": 96.75
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "fan/bakgrund-live/bakgrund-live-staende.webp",
+            "fan/bakgrund-live/bakgrund-live-staende"
+          ],
+          "src": [
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-staende.basis.ktx2",
+              "progressSize": 128.56
+            },
+            {
+              "src": "fan/bakgrund-live/bakgrund-live-staende.webp",
+              "progressSize": 62.44
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "fan/bonus-intro-fan"
+          ],
+          "src": [
+            {
+              "src": "fan/bonus-intro-fan@2x.webp.json",
+              "progressSize": 1642.74
+            },
+            {
+              "src": "fan/bonus-intro-fan@2x.basis.json",
+              "progressSize": 1299.07
+            },
+            {
+              "src": "fan/bonus-intro-fan@0.5x.webp.json",
+              "progressSize": 141.41
+            },
+            {
+              "src": "fan/bonus-intro-fan@0.5x.basis.json",
+              "progressSize": 197.04
+            },
+            {
+              "src": "fan/bonus-intro-fan.webp.json",
+              "progressSize": 483.15
+            },
+            {
+              "src": "fan/bonus-intro-fan.basis.json",
+              "progressSize": 625.83
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "fan/bonus-outro-fan"
+          ],
+          "src": [
+            {
+              "src": "fan/bonus-outro-fan@2x.webp.json",
+              "progressSize": 1589.24
+            },
+            {
+              "src": "fan/bonus-outro-fan@2x.basis.json",
+              "progressSize": 1195.58
+            },
+            {
+              "src": "fan/bonus-outro-fan@0.5x.webp.json",
+              "progressSize": 132.97
+            },
+            {
+              "src": "fan/bonus-outro-fan@0.5x.basis.json",
+              "progressSize": 192.05
+            },
+            {
+              "src": "fan/bonus-outro-fan.webp.json",
+              "progressSize": 468.28
+            },
+            {
+              "src": "fan/bonus-outro-fan.basis.json",
+              "progressSize": 604.56
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "firande",
+      "assets": [
+        {
+          "alias": [
+            "firande/skylt-bigfan"
+          ],
+          "src": [
+            {
+              "src": "firande/skylt-bigfan@2x.webp.json",
+              "progressSize": 861.89
+            },
+            {
+              "src": "firande/skylt-bigfan@2x.basis.json",
+              "progressSize": 940.62
+            },
+            {
+              "src": "firande/skylt-bigfan@0.5x.webp.json",
+              "progressSize": 95.15
+            },
+            {
+              "src": "firande/skylt-bigfan@0.5x.basis.json",
+              "progressSize": 103.28
+            },
+            {
+              "src": "firande/skylt-bigfan.webp.json",
+              "progressSize": 292.07
+            },
+            {
+              "src": "firande/skylt-bigfan.basis.json",
+              "progressSize": 349.58
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "firande/skylt-biggestfan"
+          ],
+          "src": [
+            {
+              "src": "firande/skylt-biggestfan@2x.webp.json",
+              "progressSize": 1035.41
+            },
+            {
+              "src": "firande/skylt-biggestfan@2x.basis.json",
+              "progressSize": 1147.45
+            },
+            {
+              "src": "firande/skylt-biggestfan@0.5x.webp.json",
+              "progressSize": 123.59
+            },
+            {
+              "src": "firande/skylt-biggestfan@0.5x.basis.json",
+              "progressSize": 128.44
+            },
+            {
+              "src": "firande/skylt-biggestfan.webp.json",
+              "progressSize": 365.87
+            },
+            {
+              "src": "firande/skylt-biggestfan.basis.json",
+              "progressSize": 431.58
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "firande/skylt-big"
+          ],
+          "src": [
+            {
+              "src": "firande/skylt-big@2x.webp.json",
+              "progressSize": 31.79
+            },
+            {
+              "src": "firande/skylt-big@2x.basis.json",
+              "progressSize": 39.35
+            },
+            {
+              "src": "firande/skylt-big@0.5x.webp.json",
+              "progressSize": 6.04
+            },
+            {
+              "src": "firande/skylt-big@0.5x.basis.json",
+              "progressSize": 8.94
+            },
+            {
+              "src": "firande/skylt-big.webp.json",
+              "progressSize": 13.71
+            },
+            {
+              "src": "firande/skylt-big.basis.json",
+              "progressSize": 21.59
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "firande/skylt-maxwin"
+          ],
+          "src": [
+            {
+              "src": "firande/skylt-maxwin@2x.webp.json",
+              "progressSize": 234.11
+            },
+            {
+              "src": "firande/skylt-maxwin@2x.basis.json",
+              "progressSize": 1268.62
+            },
+            {
+              "src": "firande/skylt-maxwin@0.5x.webp.json",
+              "progressSize": 39.46
+            },
+            {
+              "src": "firande/skylt-maxwin@0.5x.basis.json",
+              "progressSize": 128.52
+            },
+            {
+              "src": "firande/skylt-maxwin.webp.json",
+              "progressSize": 98.1
+            },
+            {
+              "src": "firande/skylt-maxwin.basis.json",
+              "progressSize": 436.64
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "firande/skylt-mega"
+          ],
+          "src": [
+            {
+              "src": "firande/skylt-mega@2x.webp.json",
+              "progressSize": 460.3
+            },
+            {
+              "src": "firande/skylt-mega@2x.basis.json",
+              "progressSize": 404.79
+            },
+            {
+              "src": "firande/skylt-mega@0.5x.webp.json",
+              "progressSize": 58.95
+            },
+            {
+              "src": "firande/skylt-mega@0.5x.basis.json",
+              "progressSize": 71.58
+            },
+            {
+              "src": "firande/skylt-mega.webp.json",
+              "progressSize": 178.81
+            },
+            {
+              "src": "firande/skylt-mega.basis.json",
+              "progressSize": 233.47
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "firande/skylt-super"
+          ],
+          "src": [
+            {
+              "src": "firande/skylt-super@2x.webp.json",
+              "progressSize": 677.88
+            },
+            {
+              "src": "firande/skylt-super@2x.basis.json",
+              "progressSize": 640.81
+            },
+            {
+              "src": "firande/skylt-super@0.5x.webp.json",
+              "progressSize": 84.1
+            },
+            {
+              "src": "firande/skylt-super@0.5x.basis.json",
+              "progressSize": 101.94
+            },
+            {
+              "src": "firande/skylt-super.webp.json",
+              "progressSize": 248.03
+            },
+            {
+              "src": "firande/skylt-super.basis.json",
+              "progressSize": 334.98
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "intro",
+      "assets": [
+        {
+          "alias": [
+            "intro/intro-kort"
+          ],
+          "src": [
+            {
+              "src": "intro/intro-kort@2x.webp.json",
+              "progressSize": 275.36
+            },
+            {
+              "src": "intro/intro-kort@2x.basis.json",
+              "progressSize": 1023.73
+            },
+            {
+              "src": "intro/intro-kort@0.5x.webp.json",
+              "progressSize": 43.92
+            },
+            {
+              "src": "intro/intro-kort@0.5x.basis.json",
+              "progressSize": 115.71
+            },
+            {
+              "src": "intro/intro-kort.webp.json",
+              "progressSize": 112.63
+            },
+            {
+              "src": "intro/intro-kort.basis.json",
+              "progressSize": 360.6
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "intro/intro"
+          ],
+          "src": [
+            {
+              "src": "intro/intro@2x.webp.json",
+              "progressSize": 219.38
+            },
+            {
+              "src": "intro/intro@2x.basis.json",
+              "progressSize": 738.66
+            },
+            {
+              "src": "intro/intro@0.5x.webp.json",
+              "progressSize": 37.17
+            },
+            {
+              "src": "intro/intro@0.5x.basis.json",
+              "progressSize": 84.06
+            },
+            {
+              "src": "intro/intro.webp.json",
+              "progressSize": 92.5
+            },
+            {
+              "src": "intro/intro.basis.json",
+              "progressSize": 256.53
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "super",
+      "assets": [
+        {
+          "alias": [
+            "super/bakgrund-vip/bakgrund-vip-liggande-hog.webp",
+            "super/bakgrund-vip/bakgrund-vip-liggande-hog"
+          ],
+          "src": [
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-liggande-hog.basis.ktx2",
+              "progressSize": 316
+            },
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-liggande-hog.webp",
+              "progressSize": 172.73
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "super/bakgrund-vip/bakgrund-vip-liggande.webp",
+            "super/bakgrund-vip/bakgrund-vip-liggande"
+          ],
+          "src": [
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-liggande.basis.ktx2",
+              "progressSize": 200.94
+            },
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-liggande.webp",
+              "progressSize": 118.62
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "super/bakgrund-vip/bakgrund-vip-staende-hog.webp",
+            "super/bakgrund-vip/bakgrund-vip-staende-hog"
+          ],
+          "src": [
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-staende-hog.basis.ktx2",
+              "progressSize": 238.46
+            },
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-staende-hog.webp",
+              "progressSize": 125.93
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "super/bakgrund-vip/bakgrund-vip-staende.webp",
+            "super/bakgrund-vip/bakgrund-vip-staende"
+          ],
+          "src": [
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-staende.basis.ktx2",
+              "progressSize": 154.61
+            },
+            {
+              "src": "super/bakgrund-vip/bakgrund-vip-staende.webp",
+              "progressSize": 85.29
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "nomip": true,
+              "nc": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "super/bonus-intro-super"
+          ],
+          "src": [
+            {
+              "src": "super/bonus-intro-super@2x.webp.json",
+              "progressSize": 1739.06
+            },
+            {
+              "src": "super/bonus-intro-super@2x.basis.json",
+              "progressSize": 1267.12
+            },
+            {
+              "src": "super/bonus-intro-super@0.5x.webp.json",
+              "progressSize": 164.83
+            },
+            {
+              "src": "super/bonus-intro-super@0.5x.basis.json",
+              "progressSize": 223.71
+            },
+            {
+              "src": "super/bonus-intro-super.webp.json",
+              "progressSize": 556.98
+            },
+            {
+              "src": "super/bonus-intro-super.basis.json",
+              "progressSize": 710.49
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "super/bonus-outro-super"
+          ],
+          "src": [
+            {
+              "src": "super/bonus-outro-super@2x.webp.json",
+              "progressSize": 1754.23
+            },
+            {
+              "src": "super/bonus-outro-super@2x.basis.json",
+              "progressSize": 1250.73
+            },
+            {
+              "src": "super/bonus-outro-super@0.5x.webp.json",
+              "progressSize": 164.57
+            },
+            {
+              "src": "super/bonus-outro-super@0.5x.basis.json",
+              "progressSize": 223.2
+            },
+            {
+              "src": "super/bonus-outro-super.webp.json",
+              "progressSize": 556.19
+            },
+            {
+              "src": "super/bonus-outro-super.basis.json",
+              "progressSize": 708.48
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "super/ram-vip-staende"
+          ],
+          "src": [
+            {
+              "src": "super/ram-vip-staende@2x.webp.json",
+              "progressSize": 22.39
+            },
+            {
+              "src": "super/ram-vip-staende@2x.basis.json",
+              "progressSize": 26.46
+            },
+            {
+              "src": "super/ram-vip-staende@0.5x.webp.json",
+              "progressSize": 4.82
+            },
+            {
+              "src": "super/ram-vip-staende@0.5x.basis.json",
+              "progressSize": 5.36
+            },
+            {
+              "src": "super/ram-vip-staende.webp.json",
+              "progressSize": 9.77
+            },
+            {
+              "src": "super/ram-vip-staende.basis.json",
+              "progressSize": 13.17
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        },
+        {
+          "alias": [
+            "super/ram-vip"
+          ],
+          "src": [
+            {
+              "src": "super/ram-vip@2x.webp.json",
+              "progressSize": 32.21
+            },
+            {
+              "src": "super/ram-vip@2x.basis.json",
+              "progressSize": 49.03
+            },
+            {
+              "src": "super/ram-vip@0.5x.webp.json",
+              "progressSize": 7.41
+            },
+            {
+              "src": "super/ram-vip@0.5x.basis.json",
+              "progressSize": 16.14
+            },
+            {
+              "src": "super/ram-vip.webp.json",
+              "progressSize": 15.02
+            },
+            {
+              "src": "super/ram-vip.basis.json",
+              "progressSize": 38.05
+            }
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "ktx2Alpha": "premultiplied"
+}

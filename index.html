@@ -1,0 +1,85 @@
+<!doctype html><html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"></head><body><title>The Creator</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito:wght@500;700;800&display=swap">
+<style>
+  /* Ett enda mörkt utseende i spelets färger: plommonbricka, rosa och guld (KONST 2.2 och 2.3). */
+  :root {
+    --bg: #160d14; --panel: #2a1238; --ink: #f6eef4; --muted: #c9b7c6; --pink: #ff6aae; --gold: #ffc23d;
+    --display: "Luckiest Guy", "Segoe UI Black", system-ui, sans-serif;
+    --body: "Nunito", "Segoe UI", system-ui, sans-serif;
+    color-scheme: dark;
+  }
+  html, body { height: 100%; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--body); }
+  #gate {
+    position: fixed; inset: 0; z-index: 10; display: grid; place-items: center; overflow: auto;
+    padding-block: max(24px, env(safe-area-inset-top, 0px)) max(24px, env(safe-area-inset-bottom, 0px));
+    padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+    background: radial-gradient(circle at 50% 35%, #3a1a45 0%, var(--bg) 70%);
+  }
+  #gate[hidden] { display: none !important; }
+  .card {
+    width: min(100%, 30rem); display: grid; gap: 1.1rem; justify-items: center; text-align: center;
+    background: var(--panel); border: 3px solid #000; border-radius: 22px; padding: 1.75rem 1.5rem 1.5rem;
+    box-shadow: 0 0 0 3px var(--gold), 0 18px 60px rgb(0 0 0 / 55%);
+  }
+  .card img { width: min(100%, 16rem); height: auto; }
+  h1 { margin: 0; font-family: var(--display); font-weight: 400; font-size: 2.6rem; letter-spacing: .02em; line-height: 1; color: var(--gold); text-wrap: balance; }
+  p { margin: 0; line-height: 1.5; max-width: 34ch; }
+  .facts { display: flex; flex-wrap: wrap; gap: .5rem; justify-content: center; }
+  .facts span { font-size: .8rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; padding: .35rem .7rem; border-radius: 999px; background: rgb(255 255 255 / 8%); color: var(--muted); }
+  .facts span.age { background: var(--pink); color: #160d14; }
+  button#start {
+    font: inherit; font-weight: 800; font-size: 1.05rem; color: #160d14; background: var(--gold);
+    border: 3px solid #000; border-radius: 999px; padding: .85rem 1.6rem; cursor: pointer;
+    box-shadow: 0 4px 0 #000;
+  }
+  button#start:hover { filter: brightness(1.06); }
+  button#start:focus-visible { outline: 3px solid var(--pink); outline-offset: 3px; }
+  .small { font-size: .82rem; color: var(--muted); }
+  #status { min-height: 1.2em; font-size: .85rem; color: var(--pink); }
+  /* Testpanelen och bildtidsrutan visas bara med #dev i länken. */
+  html:not(.dev) .dev-panel, html:not(.dev) .frame-overlay { display: none !important; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+<div id="game"></div>
+<div id="hud"></div>
+<div id="gate" role="dialog" aria-labelledby="gate-title">
+  <div class="card">
+    <img src="./konst/logga/logga-360@2x.png" alt="">
+    <h1 id="gate-title">The Creator</h1>
+    <p>Ett spelbart prov av The Creator: hjulen, tjejen, bonusarna och firandena. Allt spelas med låtsaspengar: inga insatser och inga vinster i riktiga pengar.</p>
+    <div class="facts"><span class="age">18+</span><span>Spelpengar</span><span>Prototyp</span></div>
+    <button type="button" id="start">Jag är över 18, starta</button>
+    <p class="small">Tryck på SPIN eller mellanslag för att snurra. Ljudet startar när du trycker. Debug nere till vänster är testläget: tvinga fram en bonus eller en maxvinst, och prova ljuden.</p>
+    <p class="small">Prototyp: konsten och ljudet kan ändras.</p>
+    <div id="status" role="status"></div>
+  </div>
+</div>
+<script>
+  (function () {
+    if (location.hash === '#dev') document.documentElement.classList.add('dev');
+    var css = ["./assets/index-A7y-lqnZ.css"];
+    var started = false;
+    document.getElementById('start').addEventListener('click', function () {
+      if (started) return;
+      started = true;
+      var status = document.getElementById('status');
+      status.textContent = 'Laddar spelet...';
+      css.forEach(function (href) {
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = href;
+        document.head.appendChild(link);
+      });
+      var s = document.createElement('script');
+      s.type = 'module';
+      s.src = "./assets/index-BtW8AOAx.js";
+      s.onload = function () { document.getElementById('gate').hidden = true; };
+      s.onerror = function () { status.textContent = 'Spelet kunde inte laddas. Ladda om sidan och försök igen.'; started = false; };
+      document.body.appendChild(s);
+    });
+  })();
+</script>
+</body></html>
