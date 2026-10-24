@@ -1,13 +1,13 @@
 <!doctype html><html lang="sv"><head><meta charset="utf-8"><link rel="icon" href="data:,"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"></head><body><title>The Creator</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Nunito:wght@500;700;800&display=swap">
+<meta name="robots" content="noindex, nofollow">
 <style>
+  @font-face { font-family: "Luckiest Guy"; src: url("./assets/LuckiestGuy-Regular-B11ovD5s.ttf") format("truetype"); font-display: swap; }
   /* Ett enda mörkt utseende i spelets färger: plommonbricka, rosa och guld (KONST 2.2 och 2.3). */
   :root {
     --bg: #160d14; --panel: #2a1238; --ink: #f6eef4; --muted: #c9b7c6; --pink: #ff6aae; --gold: #ffc23d;
     --display: "Luckiest Guy", "Segoe UI Black", system-ui, sans-serif;
-    --body: "Nunito", "Segoe UI", system-ui, sans-serif;
+    --body: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
     color-scheme: dark;
   }
   html, body { height: 100%; }
@@ -38,6 +38,10 @@
   button#start:hover { filter: brightness(1.06); }
   button#start:focus-visible { outline: 3px solid var(--pink); outline-offset: 3px; }
   .small { font-size: .82rem; color: var(--muted); }
+  .about { width: 100%; text-align: left; display: grid; gap: .6rem; }
+  .about summary { cursor: pointer; font-size: .85rem; font-weight: 700; color: var(--ink); text-align: center; }
+  .about p { max-width: none; }
+  .about a { color: var(--gold); }
   #status { min-height: 1.2em; font-size: .85rem; color: var(--pink); }
   /* Testpanelen och bildtidsrutan visas bara med #dev i länken. */
   html:not(.dev) .dev-panel, html:not(.dev) .frame-overlay { display: none !important; }
@@ -51,16 +55,23 @@
     <h1 id="gate-title">The Creator</h1>
     <p>Ett spelbart prov av The Creator: hjulen, tjejen, bonusarna och firandena. Allt spelas med låtsaspengar: inga insatser och inga vinster i riktiga pengar.</p>
     <div class="facts"><span class="age">18+</span><span>Spelpengar</span><span>Prototyp</span></div>
-    <button type="button" id="start">Jag är över 18, starta</button>
+    <button type="button" id="start">Starta demot</button>
     <p class="small">Tryck på SPIN eller mellanslag för att snurra. Ljudet startar när du trycker. Debug nere till vänster är testläget: tvinga fram en bonus eller en maxvinst, och prova ljuden.</p>
     <p class="small">Prototyp: konsten och ljudet kan ändras.</p>
+    <details class="about">
+      <summary>Om demot och integritet</summary>
+      <p class="small">Demot sparar bara det spelet behöver i din webbläsare: saldot med spelpengar, en runda som pågår och dina val för ljud, fart och introskärmen. Inget skickas till oss och inget delas med andra; det finns ingen analys, ingen reklam och inga kakor. Du raderar allt genom att rensa webbplatsdata för sidan i webbläsaren. Sidans värd kan föra egna loggar över besök, till exempel IP-adresser. Har du frågor om demot eller integriteten kan du skriva till Hemmansvägen 86, 702 17 Örebro.</p>
+      <p class="small">Delar av konsten och ljudet är gjorda med generativa AI-verktyg och bearbetade av utvecklaren.</p>
+      <p class="small">Typsnittet Luckiest Guy av Astigmatic, Apache 2.0 (<a href="./licenses/LICENSE-LuckiestGuy.txt">licensen</a>). Ljudet i demot är platshållare; musiken görs av en kompositör.</p>
+    </details>
+    <p class="small">Version 0.9.0, matte M1.0-96, bygge 41f2da5</p>
     <div id="status" role="status"></div>
   </div>
 </div>
 <script>
   (function () {
     if (location.hash === '#dev') document.documentElement.classList.add('dev');
-    var css = ["./assets/index-A7y-lqnZ.css"];
+    var css = ["./assets/index-BIlhHN2f.css"];
     var started = false;
     document.getElementById('start').addEventListener('click', function () {
       if (started) return;
@@ -75,7 +86,7 @@
       });
       var s = document.createElement('script');
       s.type = 'module';
-      s.src = "./assets/index-DU-lPL8Q.js";
+      s.src = "./assets/index-Dak5B4Jj.js";
       s.onload = function () { document.getElementById('gate').hidden = true; };
       s.onerror = function () { status.textContent = 'Spelet kunde inte laddas. Ladda om sidan och försök igen.'; started = false; };
       document.body.appendChild(s);
