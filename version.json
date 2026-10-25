@@ -1,15 +1,15 @@
 {
   "game": "The Creator",
-  "version": "0.9.4",
+  "version": "0.9.6",
   "math": "M1.0-96",
   "protocol": 1,
-  "commit": "66ba6f2",
-  "branch": "claude/sammanslagning",
+  "commit": "f7a379e",
+  "branch": "claude/vinstnivaer",
   "dirty": false,
   "host": "pages",
   "errorReports": null,
-  "built": "2026-10-25T06:38:25.521Z",
-  "bytes": 25771224,
+  "built": "2026-10-25T19:29:09.049Z",
+  "bytes": 25947282,
   "files": [
     {
       "path": ".nojekyll",
@@ -52,9 +52,9 @@
       "sha256": "e17ef89e87a044b0557bc96ef0ce5c704b633b37691d65a72ab4e0014407a12f"
     },
     {
-      "path": "assets/browserAll-CDUWIFs0.js",
+      "path": "assets/browserAll-BpnKcOll.js",
       "bytes": 43558,
-      "sha256": "fe60508c66e59b09dabb93ca0af450a2be3f65599fea45d59a93e4431a827b03"
+      "sha256": "edae5dc49da8f66bac196fbb606c8d68b14ecbd57d4c3a32f3d8587f71bdecea"
     },
     {
       "path": "assets/canvasUtils-CKP7VAtb.js",
@@ -72,14 +72,14 @@
       "sha256": "ab384ec74bc9dba36d46c038404b4ae20f7540a2032bad75a5a50b2fd67feed6"
     },
     {
-      "path": "assets/index-C2zAPu3z.css",
-      "bytes": 48921,
-      "sha256": "a27f9a6a1f7d628fe771f78edccc8463aae7f87e55ce6097d0e9cece4e3eff60"
+      "path": "assets/index-CwftsZZm.css",
+      "bytes": 48541,
+      "sha256": "a2b99533a993ad05b8027207e0df811084023103d42d7b2d9dc2d609758ec761"
     },
     {
-      "path": "assets/index-C6GkE0Si.js",
-      "bytes": 794635,
-      "sha256": "9449eea5fd9a24f167021e41751def1fbd5a1c0b8228278f8e3f9f6ca9df19ff"
+      "path": "assets/index-fJ2SpVzX.js",
+      "bytes": 795373,
+      "sha256": "92fa5987a0696860e7b9953e42f31de35d2755e7162322e9b3bfc6d84c6f8f57"
     },
     {
       "path": "assets/init-CHaM1RWH.js",
@@ -87,19 +87,19 @@
       "sha256": "2715ed01abef00972fb4e05637000f93d52077d884c717eadab5f162682c5dec"
     },
     {
-      "path": "assets/webworkerAll-BQj7st9q.js",
+      "path": "assets/webworkerAll-BEyqVj7w.js",
       "bytes": 55,
-      "sha256": "48d791a3323b2157f500cb5793ac598ecc76ad1d1d3a2c91c32adf46b489f65a"
+      "sha256": "4c6c1487b91ab92ec91b078f80dd9ba2c81fe35ae7eef8b1491bc582db5591b2"
     },
     {
-      "path": "assets/worker-D76XIEQ7.js",
-      "bytes": 102472,
-      "sha256": "59942e975f277fe2bbdc071a8df75b7edfd236272a14504ef927ebf66f75c3cd"
+      "path": "assets/worker-CcUBNFnS.js",
+      "bytes": 102353,
+      "sha256": "c0a6bf47461b47e13f98aed0129c7ee405d232aad52017d6146ff084644139db"
     },
     {
       "path": "audio/manifest.json",
-      "bytes": 31701,
-      "sha256": "cab83734b0799cbfff35346656773d8cc442be20faeb1622a5d3615255dcd28c"
+      "bytes": 31529,
+      "sha256": "54e4db905c1365ca50e492feea407115fb1ed45eec6bbe8bccba868c09005d33"
     },
     {
       "path": "audio/mus_base.mp4",
@@ -254,7 +254,7 @@
     {
       "path": "index.html",
       "bytes": 6269,
-      "sha256": "d8af365b4f750d6954bece99170c861034af3d8256c2079d8dae8a8622f0515c"
+      "sha256": "de81d13b4986ead9c1c204c5559a4f18bb1097cece568a6f8d9de30c4c375b66"
     },
     {
       "path": "konst/atlas/bas/bakgrund-grund/bakgrund-grund-liggande.basis.ktx2",
@@ -283,8 +283,8 @@
     },
     {
       "path": "konst/atlas/bas/celler-2-4.basis.ktx2",
-      "bytes": 716511,
-      "sha256": "852e477bcebd50f06708a1dd2ea200f61ae7fbaedf2edfd4b0cf1cc6829c8138"
+      "bytes": 717362,
+      "sha256": "e5338b20cb0e0e8f6270cef0153d35903ac4ea726e1260672f2db8ff4028022a"
     },
     {
       "path": "konst/atlas/bas/celler-2-4.webp",
@@ -303,8 +303,8 @@
     },
     {
       "path": "konst/atlas/bas/celler-5-7.basis.ktx2",
-      "bytes": 439807,
-      "sha256": "1497a57de21af3e155033c5b168ba7d9a0a91493ece355ac7c9e8b11a3317499"
+      "bytes": 437801,
+      "sha256": "bd9cedccbcf8f0527979665f0bde9b303779474ea6fae53abf31a7a58a09a5ce"
     },
     {
       "path": "konst/atlas/bas/celler-5-7.webp",
@@ -333,8 +333,8 @@
     },
     {
       "path": "konst/atlas/bas/kameraon.basis.ktx2",
-      "bytes": 9257,
-      "sha256": "718054e218bf4239d511d7e999902d08ec3ec27b1a677ed6051373325ad31834"
+      "bytes": 9198,
+      "sha256": "57d5dc91d4f7493940673abdda3ef7dca9cd2f9251087052f6b137a93f70fceb"
     },
     {
       "path": "konst/atlas/bas/kameraon.webp",
@@ -353,8 +353,8 @@
     },
     {
       "path": "konst/atlas/bas/kopruta.basis.ktx2",
-      "bytes": 92653,
-      "sha256": "7019d23fad8c024f57123a6634fb286937f757279a3434278031a860396c4149"
+      "bytes": 92727,
+      "sha256": "492997b23cfa0e37fb208e7a44b40e533d656644a921aeb6d2a5a85857566745"
     },
     {
       "path": "konst/atlas/bas/kopruta.webp",
@@ -373,8 +373,8 @@
     },
     {
       "path": "konst/atlas/bas/partiklar.basis.ktx2",
-      "bytes": 73071,
-      "sha256": "1e0d5a90214f666cc2855c250a78ced2c7f497cd63346b1e6037446da9db98ad"
+      "bytes": 73073,
+      "sha256": "bffad4c075a1567833a63828cc3579cfd3e9466d9d03946af2eefe1417dba7e9"
     },
     {
       "path": "konst/atlas/bas/partiklar.webp",
@@ -393,8 +393,8 @@
     },
     {
       "path": "konst/atlas/bas/ram-bas-staende.basis.ktx2",
-      "bytes": 20362,
-      "sha256": "74ed0ae0635927b46fa1326f61a9dbb10e39bc5e9aace3afce801ef44da2df82"
+      "bytes": 20461,
+      "sha256": "533ec8d9268db5f7547e4b699ce5880e7f3061afeb80e801b36cd81c908b6085"
     },
     {
       "path": "konst/atlas/bas/ram-bas-staende.webp",
@@ -413,8 +413,8 @@
     },
     {
       "path": "konst/atlas/bas/ram-bas.basis.ktx2",
-      "bytes": 42236,
-      "sha256": "05f3e867afac4ff139c9afb01453b1d60bb799702b9b5386c6f3c2dc477fa102"
+      "bytes": 41774,
+      "sha256": "f7119d5aad2852413bec098a60c857bca587ad50cb519eb18156eb3d8d6c3982"
     },
     {
       "path": "konst/atlas/bas/ram-bas.webp",
@@ -433,8 +433,8 @@
     },
     {
       "path": "konst/atlas/bas/riggar-2-3.basis.ktx2",
-      "bytes": 416146,
-      "sha256": "5b1a8922099a8e02d6eb5d0ea4511f76c0836da012489d04bb5037baedd81c5b"
+      "bytes": 418646,
+      "sha256": "05ff0db5ce544e2826898043968893d5d1161f4012922afa9a4b606fad3e0fc3"
     },
     {
       "path": "konst/atlas/bas/riggar-2-3.webp",
@@ -453,8 +453,8 @@
     },
     {
       "path": "konst/atlas/bas/riggar-4-7.basis.ktx2",
-      "bytes": 600698,
-      "sha256": "d29c83ce17554e16c6216ae8d062cbfa7bce60b9e4be215367ac2a95ee2b6be2"
+      "bytes": 594640,
+      "sha256": "8ea9da6791026704fb899cd81a14e20b24bc7934ce97952b8fd8f98045924882"
     },
     {
       "path": "konst/atlas/bas/riggar-4-7.webp",
@@ -473,8 +473,8 @@
     },
     {
       "path": "konst/atlas/bas/scatter-notis.basis.ktx2",
-      "bytes": 28402,
-      "sha256": "e2fafb7552596146555743f720464f920b194d701d039120e0a980cbb1931dc9"
+      "bytes": 28406,
+      "sha256": "18d5a639c34322ebbf0830dcef05ed23dde4860c14fac26bcc8bb43c9dfc5c77"
     },
     {
       "path": "konst/atlas/bas/scatter-notis.webp",
@@ -528,8 +528,8 @@
     },
     {
       "path": "konst/atlas/bas/tjejen-lasram.basis.ktx2",
-      "bytes": 5824,
-      "sha256": "09981e9573991639d75450af186197f6100b255b208348bd3ca0143b96ad7a06"
+      "bytes": 5827,
+      "sha256": "6eecf52e8d6eb83e7043cd95527d81ff4244b5249bdcc17032bf29c08189898c"
     },
     {
       "path": "konst/atlas/bas/tjejen-lasram.png",
@@ -573,8 +573,8 @@
     },
     {
       "path": "konst/atlas/bas/ui.basis.ktx2",
-      "bytes": 115647,
-      "sha256": "9b39bbe073b773cd895e1e27a6f50836a7092c198534d4266b12e6efe8a8e7a2"
+      "bytes": 115210,
+      "sha256": "1a270eed4e1676c066189f7c46781edfa0ab9bda3eb11fc3f7b216f5b0fcd22b"
     },
     {
       "path": "konst/atlas/bas/ui.webp",
@@ -593,8 +593,8 @@
     },
     {
       "path": "konst/atlas/boot/logga-laddning.basis.ktx2",
-      "bytes": 118237,
-      "sha256": "3a267730274b341c19a34e5a4c926752cac1ac676080a0b31f07ddae92f52dda"
+      "bytes": 118597,
+      "sha256": "1a0ddfe4684c783c7c368cac1fe5a93a420a4d99f4577b130eca9508db56293b"
     },
     {
       "path": "konst/atlas/boot/logga-laddning.webp",
@@ -613,8 +613,8 @@
     },
     {
       "path": "konst/atlas/boot/studio.basis.ktx2",
-      "bytes": 312292,
-      "sha256": "10275af93b2f31709a53171a51a3297b4326dfeef1f59f24e005419a8f1e5126"
+      "bytes": 312319,
+      "sha256": "53a38afacc47843b20c9b56421830877859a961863045c8ee7d6e430d4e9ed22"
     },
     {
       "path": "konst/atlas/boot/studio.webp",
@@ -653,8 +653,8 @@
     },
     {
       "path": "konst/atlas/fan/bonus-intro-fan.basis.ktx2",
-      "bytes": 387217,
-      "sha256": "790816ae3c28dd6ee8551e3593ed34ecbf906fa1c80f5fb6d0c70f55d41b5645"
+      "bytes": 402304,
+      "sha256": "7bdc3b842df99f4289a859ea66b75f700bf069a33444f9e93f95c98c1b5e09f8"
     },
     {
       "path": "konst/atlas/fan/bonus-intro-fan.webp",
@@ -673,8 +673,8 @@
     },
     {
       "path": "konst/atlas/fan/bonus-outro-fan.basis.ktx2",
-      "bytes": 378927,
-      "sha256": "21386d5eb465127f4c702fd859bae2e2d4d38a6c63670568e59163fd4bb01c04"
+      "bytes": 342393,
+      "sha256": "b218c7259abebda038a6cd51bebf81c044a0284a215843d79033eda6f95a5428"
     },
     {
       "path": "konst/atlas/fan/bonus-outro-fan.webp",
@@ -693,13 +693,13 @@
     },
     {
       "path": "konst/atlas/firande/skylt-big.basis.ktx2",
-      "bytes": 21658,
-      "sha256": "d2aba1ab3c0c876d130e55da9775d5779e44859006284e84ab33710b54920f4f"
+      "bytes": 30140,
+      "sha256": "c111aae136f4001af701b08646b6c7ceb7ab2e74618e2f5b66f32baa52bd817a"
     },
     {
       "path": "konst/atlas/firande/skylt-big.webp",
-      "bytes": 13690,
-      "sha256": "603627eb6973085132fee6a1f6984ffcb4d2f4a97c876ea18ab9b459afd03bf1"
+      "bytes": 55588,
+      "sha256": "2d14503b461ca5a4326aa960dc2834f5281a5d2f47c2697cff57371e1bd57162"
     },
     {
       "path": "konst/atlas/firande/skylt-big.webp.json",
@@ -709,42 +709,42 @@
     {
       "path": "konst/atlas/firande/skylt-bigfan.basis.json",
       "bytes": 365,
-      "sha256": "3437eb3b5df1062a559f7a0a38c3537a8a832abf689a23c0ebfef4bd861a0c94"
+      "sha256": "bb3155292cc1999b7506f0193f25894ccda0111e654a2fb7483b6550a9d10302"
     },
     {
       "path": "konst/atlas/firande/skylt-bigfan.basis.ktx2",
-      "bytes": 226322,
-      "sha256": "2a30e6a2122687e8ed67bc78c259637235331c53167f18902dfe179d29ef04c4"
+      "bytes": 234631,
+      "sha256": "ead7590f6f8bb5305376262d930889a953c3b7e1a9776e9d75c0184b80255963"
     },
     {
       "path": "konst/atlas/firande/skylt-bigfan.webp",
-      "bytes": 298726,
-      "sha256": "98a0a9af07026309758b7b81ce879e41a0564c989cbf3d8e122ececfbe52e2e1"
+      "bytes": 328924,
+      "sha256": "a59ddaf4cbf10e080cf9ee369a0e6b2e4c694d9074c87a39811582fe47ba54d1"
     },
     {
       "path": "konst/atlas/firande/skylt-bigfan.webp.json",
       "bytes": 359,
-      "sha256": "6bc89f9d996cc079206394eb05728779d4a7efab737d475433e63fe73103a655"
+      "sha256": "06bb9c01e4037dfe741e092d03770d10d4ab748fedb9ce192d96e4f3e6015cb2"
     },
     {
       "path": "konst/atlas/firande/skylt-biggestfan.basis.json",
       "bytes": 377,
-      "sha256": "b0c385d78674ad81b47602b4529e4f0cf1becd4b3c54d7d0a5409cda7537eeab"
+      "sha256": "99d45a184c1ef82d83d9fefa00aabffaf8922a89748e08e7f868129ea14b9b80"
     },
     {
       "path": "konst/atlas/firande/skylt-biggestfan.basis.ktx2",
-      "bytes": 314672,
-      "sha256": "829709861e6ccff804c08f7e6cb3daad8504ab2d291d2babe504d0a8997f402f"
+      "bytes": 305048,
+      "sha256": "b5922bcb720170a503c0c39f8224b4843597024c2930833d95dceaad9c369b1c"
     },
     {
       "path": "konst/atlas/firande/skylt-biggestfan.webp",
-      "bytes": 374280,
-      "sha256": "4969b08302aa583d5cad761c51730c4c04b23d8c32ce5e7348f7ba214cb83444"
+      "bytes": 409678,
+      "sha256": "c5bb2bb43553e1f590fbb6f7e5365e23f89cfde4c031ffa2173c9125c319b9b1"
     },
     {
       "path": "konst/atlas/firande/skylt-biggestfan.webp.json",
       "bytes": 371,
-      "sha256": "ee180a0702951bc4124e100336d4c0385cff91f2d450b9e2de4fa27ebd483919"
+      "sha256": "58a81c0364b3305646d8fa59b1d42bbc18b07198ad038b11c640bc962b7f157d"
     },
     {
       "path": "konst/atlas/firande/skylt-maxwin.basis.json",
@@ -753,8 +753,8 @@
     },
     {
       "path": "konst/atlas/firande/skylt-maxwin.basis.ktx2",
-      "bytes": 440423,
-      "sha256": "5a9a6873512238aff90a2aace7c62b4f0b91fc6c22841cd78e8b10d73dc0bcf2"
+      "bytes": 448726,
+      "sha256": "85629fbaed8f511c5f0f08c8f327e26b69d592e693875e48f10df7d8654c3c90"
     },
     {
       "path": "konst/atlas/firande/skylt-maxwin.webp",
@@ -773,13 +773,13 @@
     },
     {
       "path": "konst/atlas/firande/skylt-mega.basis.ktx2",
-      "bytes": 135795,
-      "sha256": "0d05c2ccdbedf88e16b0339d49fe58c72a9b108c0ae4491ce87386aa95847f78"
+      "bytes": 138259,
+      "sha256": "ba47497df82f27000e5900e32e8f1049c75c09442a5a6fd542d6c9a387bc04cd"
     },
     {
       "path": "konst/atlas/firande/skylt-mega.webp",
-      "bytes": 182742,
-      "sha256": "bdf4921f88a4b89c17311a55838629eaf11ba84280860ca47aa37c0ed3293eb2"
+      "bytes": 220690,
+      "sha256": "bbe644fc6cf59dba7c3affaa48ec82b5f7fdb0ef736e899ba0c2e9b0585b4e2a"
     },
     {
       "path": "konst/atlas/firande/skylt-mega.webp.json",
@@ -793,13 +793,13 @@
     },
     {
       "path": "konst/atlas/firande/skylt-super.basis.ktx2",
-      "bytes": 204505,
-      "sha256": "35bb7c440abc630f51f2b4f1f201c49935fd7591fcb23193143ccec0d6a25748"
+      "bytes": 204424,
+      "sha256": "21e4c9c910479a12f0dfcc5d0e20c9e040a16566039ef8ab00e8cd0284be5c84"
     },
     {
       "path": "konst/atlas/firande/skylt-super.webp",
-      "bytes": 253626,
-      "sha256": "5ac16db9c5b90c3c2dd705665ba19bf5fe362e437a7f216e088bf8a9502a42d0"
+      "bytes": 291278,
+      "sha256": "0c7a9fd103f637c5e425b4e24b7620d99452bc0e898805001b86f85e940d3420"
     },
     {
       "path": "konst/atlas/firande/skylt-super.webp.json",
@@ -813,8 +813,8 @@
     },
     {
       "path": "konst/atlas/intro/intro-kort.basis.ktx2",
-      "bytes": 367625,
-      "sha256": "9f17d1de3da90cf38d1820a28269dc1210e1ff097e90986ee16945de05b17388"
+      "bytes": 366483,
+      "sha256": "f11cc618369252413fd06b225f2b3173d7ecbae6e98e7a512105ff906f34bcc4"
     },
     {
       "path": "konst/atlas/intro/intro-kort.webp",
@@ -828,8 +828,8 @@
     },
     {
       "path": "konst/atlas/manifest.json",
-      "bytes": 39856,
-      "sha256": "2b205c3f50e6502304046d36a6d1d89cdfa6dfe91794049250c2dda576f299cf"
+      "bytes": 39849,
+      "sha256": "813a0e60e80dce10244ec9494e9565a5d66e2eed2339f68db9aeb87919ddc7a2"
     },
     {
       "path": "konst/atlas/super/bakgrund-vip/bakgrund-vip-liggande.basis.ktx2",
@@ -858,8 +858,8 @@
     },
     {
       "path": "konst/atlas/super/bonus-intro-super.basis.ktx2",
-      "bytes": 434072,
-      "sha256": "b1b01a616ec3d180fea66294949eb99430a797d467c85a82e98a65f8c3a591e1"
+      "bytes": 417261,
+      "sha256": "ab3aa3a66fee62429d4c18905265d86d0a9462f59eb28a82adc3f05dd9bcd197"
     },
     {
       "path": "konst/atlas/super/bonus-intro-super.webp",
@@ -878,8 +878,8 @@
     },
     {
       "path": "konst/atlas/super/bonus-outro-super.basis.ktx2",
-      "bytes": 419259,
-      "sha256": "5b6116884b955afd29b16dfa14527d7e9f0009bfa14060fc96bb61f09aedaf5d"
+      "bytes": 439015,
+      "sha256": "6f2abd3772883b9ceaa9b6dbddc48c451c06cf08a3b654de4e57ce56505f9640"
     },
     {
       "path": "konst/atlas/super/bonus-outro-super.webp",
@@ -898,8 +898,8 @@
     },
     {
       "path": "konst/atlas/super/ram-vip-staende.basis.ktx2",
-      "bytes": 13031,
-      "sha256": "3de64dc99a2c9e110acb3327a5748fd89d37678d378eba9aa7e72985d2747665"
+      "bytes": 13033,
+      "sha256": "eedf16e158d25449858fd4e61bbc16fec55669c45400e5396b29ef463c039163"
     },
     {
       "path": "konst/atlas/super/ram-vip-staende.webp",
@@ -918,8 +918,8 @@
     },
     {
       "path": "konst/atlas/super/ram-vip.basis.ktx2",
-      "bytes": 38868,
-      "sha256": "592ca40ad92b24399377a7374591242268f4290ec4eca2ab6a783aa634698f5a"
+      "bytes": 38663,
+      "sha256": "603240cab35fec4519a37027420367d5abc6fdd7bc8bb75cd735bba5f6d4e84f"
     },
     {
       "path": "konst/atlas/super/ram-vip.webp",

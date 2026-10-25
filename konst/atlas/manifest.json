@@ -110,7 +110,7 @@
             },
             {
               "src": "bas/celler-2-4@2x.basis.json",
-              "progressSize": 2182.34
+              "progressSize": 2169.5
             },
             {
               "src": "bas/celler-2-4@0.5x.webp.json",
@@ -118,7 +118,7 @@
             },
             {
               "src": "bas/celler-2-4@0.5x.basis.json",
-              "progressSize": 229.65
+              "progressSize": 230.22
             },
             {
               "src": "bas/celler-2-4.webp.json",
@@ -126,7 +126,7 @@
             },
             {
               "src": "bas/celler-2-4.basis.json",
-              "progressSize": 710.62
+              "progressSize": 708.6
             }
           ],
           "data": {
@@ -147,7 +147,7 @@
             },
             {
               "src": "bas/celler-5-7@2x.basis.json",
-              "progressSize": 1295.76
+              "progressSize": 1292.69
             },
             {
               "src": "bas/celler-5-7@0.5x.webp.json",
@@ -155,7 +155,7 @@
             },
             {
               "src": "bas/celler-5-7@0.5x.basis.json",
-              "progressSize": 143.52
+              "progressSize": 143.54
             },
             {
               "src": "bas/celler-5-7.webp.json",
@@ -163,7 +163,7 @@
             },
             {
               "src": "bas/celler-5-7.basis.json",
-              "progressSize": 437.55
+              "progressSize": 436.84
             }
           ],
           "data": {
@@ -239,7 +239,7 @@
             },
             {
               "src": "bas/kopruta@2x.basis.json",
-              "progressSize": 236.09
+              "progressSize": 236.72
             },
             {
               "src": "bas/kopruta@0.5x.webp.json",
@@ -247,7 +247,7 @@
             },
             {
               "src": "bas/kopruta@0.5x.basis.json",
-              "progressSize": 36.28
+              "progressSize": 36.34
             },
             {
               "src": "bas/kopruta.webp.json",
@@ -255,7 +255,7 @@
             },
             {
               "src": "bas/kopruta.basis.json",
-              "progressSize": 89.79
+              "progressSize": 90.7
             }
           ],
           "data": {
@@ -276,7 +276,7 @@
             },
             {
               "src": "bas/partiklar@2x.basis.json",
-              "progressSize": 239.12
+              "progressSize": 239.49
             },
             {
               "src": "bas/partiklar@0.5x.webp.json",
@@ -292,7 +292,7 @@
             },
             {
               "src": "bas/partiklar.basis.json",
-              "progressSize": 90.64
+              "progressSize": 90.77
             }
           ],
           "data": {
@@ -313,7 +313,7 @@
             },
             {
               "src": "bas/ram-bas-staende@2x.basis.json",
-              "progressSize": 30.47
+              "progressSize": 30.76
             },
             {
               "src": "bas/ram-bas-staende@0.5x.webp.json",
@@ -321,7 +321,7 @@
             },
             {
               "src": "bas/ram-bas-staende@0.5x.basis.json",
-              "progressSize": 9.4
+              "progressSize": 9.42
             },
             {
               "src": "bas/ram-bas-staende.webp.json",
@@ -329,7 +329,7 @@
             },
             {
               "src": "bas/ram-bas-staende.basis.json",
-              "progressSize": 20.85
+              "progressSize": 20.9
             }
           ],
           "data": {
@@ -350,7 +350,7 @@
             },
             {
               "src": "bas/ram-bas@2x.basis.json",
-              "progressSize": 57.47
+              "progressSize": 56.81
             },
             {
               "src": "bas/ram-bas@0.5x.webp.json",
@@ -358,7 +358,7 @@
             },
             {
               "src": "bas/ram-bas@0.5x.basis.json",
-              "progressSize": 20.71
+              "progressSize": 20.66
             },
             {
               "src": "bas/ram-bas.webp.json",
@@ -366,7 +366,7 @@
             },
             {
               "src": "bas/ram-bas.basis.json",
-              "progressSize": 41.31
+              "progressSize": 41.63
             }
           ],
           "data": {
@@ -387,7 +387,7 @@
             },
             {
               "src": "bas/riggar-2-3@2x.basis.json",
-              "progressSize": 1285.76
+              "progressSize": 1277.94
             },
             {
               "src": "bas/riggar-2-3@0.5x.webp.json",
@@ -395,7 +395,7 @@
             },
             {
               "src": "bas/riggar-2-3@0.5x.basis.json",
-              "progressSize": 157.77
+              "progressSize": 157.79
             },
             {
               "src": "bas/riggar-2-3.webp.json",
@@ -403,7 +403,7 @@
             },
             {
               "src": "bas/riggar-2-3.basis.json",
-              "progressSize": 438.42
+              "progressSize": 437.27
             }
           ],
           "data": {
@@ -424,7 +424,7 @@
             },
             {
               "src": "bas/riggar-4-7@2x.basis.json",
-              "progressSize": 1819.49
+              "progressSize": 1826.41
             },
             {
               "src": "bas/riggar-4-7@0.5x.webp.json",
@@ -432,7 +432,7 @@
             },
             {
               "src": "bas/riggar-4-7@0.5x.basis.json",
-              "progressSize": 239.13
+              "progressSize": 239.59
             },
             {
               "src": "bas/riggar-4-7.webp.json",
@@ -440,7 +440,7 @@
             },
             {
               "src": "bas/riggar-4-7.basis.json",
-              "progressSize": 637.27
+              "progressSize": 637.04
             }
           ],
           "data": {
@@ -461,7 +461,7 @@
             },
             {
               "src": "bas/scatter-notis@2x.basis.json",
-              "progressSize": 74.89
+              "progressSize": 75.14
             },
             {
               "src": "bas/scatter-notis@0.5x.webp.json",
@@ -477,7 +477,7 @@
             },
             {
               "src": "bas/scatter-notis.basis.json",
-              "progressSize": 33.59
+              "progressSize": 33.57
             }
           ],
           "data": {
@@ -709,7 +709,7 @@
             },
             {
               "src": "bas/ui@2x.basis.json",
-              "progressSize": 190.05
+              "progressSize": 189.73
             },
             {
               "src": "bas/ui@0.5x.webp.json",
@@ -717,7 +717,7 @@
             },
             {
               "src": "bas/ui@0.5x.basis.json",
-              "progressSize": 49.3
+              "progressSize": 49.26
             },
             {
               "src": "bas/ui.webp.json",
@@ -725,7 +725,7 @@
             },
             {
               "src": "bas/ui.basis.json",
-              "progressSize": 119.26
+              "progressSize": 119.32
             }
           ],
           "data": {
@@ -751,7 +751,7 @@
             },
             {
               "src": "boot/laddning@2x.basis.json",
-              "progressSize": 16.29
+              "progressSize": 16.3
             },
             {
               "src": "boot/laddning@0.5x.webp.json",
@@ -788,7 +788,7 @@
             },
             {
               "src": "boot/logga-laddning@2x.basis.json",
-              "progressSize": 214.01
+              "progressSize": 211.6
             },
             {
               "src": "boot/logga-laddning@0.5x.webp.json",
@@ -796,7 +796,7 @@
             },
             {
               "src": "boot/logga-laddning@0.5x.basis.json",
-              "progressSize": 46.64
+              "progressSize": 46.66
             },
             {
               "src": "boot/logga-laddning.webp.json",
@@ -825,7 +825,7 @@
             },
             {
               "src": "boot/studio@2x.basis.json",
-              "progressSize": 620.43
+              "progressSize": 618.81
             },
             {
               "src": "boot/studio@0.5x.webp.json",
@@ -833,7 +833,7 @@
             },
             {
               "src": "boot/studio@0.5x.basis.json",
-              "progressSize": 136.14
+              "progressSize": 136.16
             },
             {
               "src": "boot/studio.webp.json",
@@ -959,7 +959,7 @@
             },
             {
               "src": "fan/bonus-intro-fan@2x.basis.json",
-              "progressSize": 1299.07
+              "progressSize": 1294.53
             },
             {
               "src": "fan/bonus-intro-fan@0.5x.webp.json",
@@ -967,7 +967,7 @@
             },
             {
               "src": "fan/bonus-intro-fan@0.5x.basis.json",
-              "progressSize": 197.04
+              "progressSize": 197.3
             },
             {
               "src": "fan/bonus-intro-fan.webp.json",
@@ -975,7 +975,7 @@
             },
             {
               "src": "fan/bonus-intro-fan.basis.json",
-              "progressSize": 625.83
+              "progressSize": 625.89
             }
           ],
           "data": {
@@ -996,7 +996,7 @@
             },
             {
               "src": "fan/bonus-outro-fan@2x.basis.json",
-              "progressSize": 1195.58
+              "progressSize": 1199.22
             },
             {
               "src": "fan/bonus-outro-fan@0.5x.webp.json",
@@ -1004,7 +1004,7 @@
             },
             {
               "src": "fan/bonus-outro-fan@0.5x.basis.json",
-              "progressSize": 192.05
+              "progressSize": 191.85
             },
             {
               "src": "fan/bonus-outro-fan.webp.json",
@@ -1012,7 +1012,7 @@
             },
             {
               "src": "fan/bonus-outro-fan.basis.json",
-              "progressSize": 604.56
+              "progressSize": 605.86
             }
           ],
           "data": {
@@ -1034,27 +1034,27 @@
           "src": [
             {
               "src": "firande/skylt-bigfan@2x.webp.json",
-              "progressSize": 861.89
+              "progressSize": 1163.61
             },
             {
               "src": "firande/skylt-bigfan@2x.basis.json",
-              "progressSize": 940.62
+              "progressSize": 740.26
             },
             {
               "src": "firande/skylt-bigfan@0.5x.webp.json",
-              "progressSize": 95.15
+              "progressSize": 103.23
             },
             {
               "src": "firande/skylt-bigfan@0.5x.basis.json",
-              "progressSize": 103.28
+              "progressSize": 119.76
             },
             {
               "src": "firande/skylt-bigfan.webp.json",
-              "progressSize": 292.07
+              "progressSize": 321.56
             },
             {
               "src": "firande/skylt-bigfan.basis.json",
-              "progressSize": 349.58
+              "progressSize": 383.91
             }
           ],
           "data": {
@@ -1071,27 +1071,27 @@
           "src": [
             {
               "src": "firande/skylt-biggestfan@2x.webp.json",
-              "progressSize": 1035.41
+              "progressSize": 1395.15
             },
             {
               "src": "firande/skylt-biggestfan@2x.basis.json",
-              "progressSize": 1147.45
+              "progressSize": 988.8
             },
             {
               "src": "firande/skylt-biggestfan@0.5x.webp.json",
-              "progressSize": 123.59
+              "progressSize": 129.04
             },
             {
               "src": "firande/skylt-biggestfan@0.5x.basis.json",
-              "progressSize": 128.44
+              "progressSize": 138
             },
             {
               "src": "firande/skylt-biggestfan.webp.json",
-              "progressSize": 365.87
+              "progressSize": 400.44
             },
             {
               "src": "firande/skylt-biggestfan.basis.json",
-              "progressSize": 431.58
+              "progressSize": 458.54
             }
           ],
           "data": {
@@ -1108,27 +1108,27 @@
           "src": [
             {
               "src": "firande/skylt-big@2x.webp.json",
-              "progressSize": 31.79
+              "progressSize": 276.93
             },
             {
               "src": "firande/skylt-big@2x.basis.json",
-              "progressSize": 39.35
+              "progressSize": 54.7
             },
             {
               "src": "firande/skylt-big@0.5x.webp.json",
-              "progressSize": 6.04
+              "progressSize": 12.36
             },
             {
               "src": "firande/skylt-big@0.5x.basis.json",
-              "progressSize": 8.94
+              "progressSize": 14.81
             },
             {
               "src": "firande/skylt-big.webp.json",
-              "progressSize": 13.71
+              "progressSize": 54.63
             },
             {
               "src": "firande/skylt-big.basis.json",
-              "progressSize": 21.59
+              "progressSize": 35.57
             }
           ],
           "data": {
@@ -1157,7 +1157,7 @@
             },
             {
               "src": "firande/skylt-maxwin@0.5x.basis.json",
-              "progressSize": 128.52
+              "progressSize": 127.63
             },
             {
               "src": "firande/skylt-maxwin.webp.json",
@@ -1165,7 +1165,7 @@
             },
             {
               "src": "firande/skylt-maxwin.basis.json",
-              "progressSize": 436.64
+              "progressSize": 432.06
             }
           ],
           "data": {
@@ -1182,27 +1182,27 @@
           "src": [
             {
               "src": "firande/skylt-mega@2x.webp.json",
-              "progressSize": 460.3
+              "progressSize": 775.27
             },
             {
               "src": "firande/skylt-mega@2x.basis.json",
-              "progressSize": 404.79
+              "progressSize": 425.57
             },
             {
               "src": "firande/skylt-mega@0.5x.webp.json",
-              "progressSize": 58.95
+              "progressSize": 66.82
             },
             {
               "src": "firande/skylt-mega@0.5x.basis.json",
-              "progressSize": 71.58
+              "progressSize": 78.5
             },
             {
               "src": "firande/skylt-mega.webp.json",
-              "progressSize": 178.81
+              "progressSize": 215.87
             },
             {
               "src": "firande/skylt-mega.basis.json",
-              "progressSize": 233.47
+              "progressSize": 248.54
             }
           ],
           "data": {
@@ -1219,27 +1219,27 @@
           "src": [
             {
               "src": "firande/skylt-super@2x.webp.json",
-              "progressSize": 677.88
+              "progressSize": 937.8
             },
             {
               "src": "firande/skylt-super@2x.basis.json",
-              "progressSize": 640.81
+              "progressSize": 617.81
             },
             {
               "src": "firande/skylt-super@0.5x.webp.json",
-              "progressSize": 84.1
+              "progressSize": 92.52
             },
             {
               "src": "firande/skylt-super@0.5x.basis.json",
-              "progressSize": 101.94
+              "progressSize": 108.55
             },
             {
               "src": "firande/skylt-super.webp.json",
-              "progressSize": 248.03
+              "progressSize": 284.8
             },
             {
               "src": "firande/skylt-super.basis.json",
-              "progressSize": 334.98
+              "progressSize": 340.89
             }
           ],
           "data": {
@@ -1265,7 +1265,7 @@
             },
             {
               "src": "intro/intro-kort@2x.basis.json",
-              "progressSize": 1023.73
+              "progressSize": 1027.08
             },
             {
               "src": "intro/intro-kort@0.5x.webp.json",
@@ -1273,7 +1273,7 @@
             },
             {
               "src": "intro/intro-kort@0.5x.basis.json",
-              "progressSize": 115.71
+              "progressSize": 115.72
             },
             {
               "src": "intro/intro-kort.webp.json",
@@ -1281,7 +1281,7 @@
             },
             {
               "src": "intro/intro-kort.basis.json",
-              "progressSize": 360.6
+              "progressSize": 358.72
             }
           ],
           "data": {
@@ -1302,7 +1302,7 @@
             },
             {
               "src": "intro/intro@2x.basis.json",
-              "progressSize": 738.66
+              "progressSize": 732.44
             },
             {
               "src": "intro/intro@0.5x.webp.json",
@@ -1318,7 +1318,7 @@
             },
             {
               "src": "intro/intro.basis.json",
-              "progressSize": 256.53
+              "progressSize": 256.65
             }
           ],
           "data": {
@@ -1436,7 +1436,7 @@
             },
             {
               "src": "super/bonus-intro-super@2x.basis.json",
-              "progressSize": 1267.12
+              "progressSize": 1254.52
             },
             {
               "src": "super/bonus-intro-super@0.5x.webp.json",
@@ -1444,7 +1444,7 @@
             },
             {
               "src": "super/bonus-intro-super@0.5x.basis.json",
-              "progressSize": 223.71
+              "progressSize": 223.78
             },
             {
               "src": "super/bonus-intro-super.webp.json",
@@ -1452,7 +1452,7 @@
             },
             {
               "src": "super/bonus-intro-super.basis.json",
-              "progressSize": 710.49
+              "progressSize": 711.46
             }
           ],
           "data": {
@@ -1473,7 +1473,7 @@
             },
             {
               "src": "super/bonus-outro-super@2x.basis.json",
-              "progressSize": 1250.73
+              "progressSize": 1244.3
             },
             {
               "src": "super/bonus-outro-super@0.5x.webp.json",
@@ -1481,7 +1481,7 @@
             },
             {
               "src": "super/bonus-outro-super@0.5x.basis.json",
-              "progressSize": 223.2
+              "progressSize": 223.25
             },
             {
               "src": "super/bonus-outro-super.webp.json",
@@ -1489,7 +1489,7 @@
             },
             {
               "src": "super/bonus-outro-super.basis.json",
-              "progressSize": 708.48
+              "progressSize": 707.4
             }
           ],
           "data": {
@@ -1510,7 +1510,7 @@
             },
             {
               "src": "super/ram-vip-staende@2x.basis.json",
-              "progressSize": 26.46
+              "progressSize": 26.64
             },
             {
               "src": "super/ram-vip-staende@0.5x.webp.json",
@@ -1526,7 +1526,7 @@
             },
             {
               "src": "super/ram-vip-staende.basis.json",
-              "progressSize": 13.17
+              "progressSize": 13.11
             }
           ],
           "data": {
@@ -1555,7 +1555,7 @@
             },
             {
               "src": "super/ram-vip@0.5x.basis.json",
-              "progressSize": 16.14
+              "progressSize": 16.07
             },
             {
               "src": "super/ram-vip.webp.json",
@@ -1563,7 +1563,7 @@
             },
             {
               "src": "super/ram-vip.basis.json",
-              "progressSize": 38.05
+              "progressSize": 38.42
             }
           ],
           "data": {

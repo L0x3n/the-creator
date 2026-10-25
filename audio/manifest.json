@@ -1111,15 +1111,6 @@
    "asset": "T-083"
   },
   {
-   "id": "sfx_full_house",
-   "file": "sfx-core",
-   "offset": 1880960,
-   "length": 72000,
-   "loopStart": null,
-   "loopEnd": null,
-   "asset": "T-083"
-  },
-  {
    "id": "sfx_result_neutral_1",
    "file": "sfx-core",
    "offset": 1955360,
