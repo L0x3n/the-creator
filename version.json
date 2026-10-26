@@ -1,15 +1,15 @@
 {
   "game": "The Creator",
-  "version": "0.9.6",
-  "math": "M1.0-96",
-  "protocol": 1,
-  "commit": "f7a379e",
-  "branch": "claude/vinstnivaer",
+  "version": "0.9.8",
+  "math": "M2.0-96",
+  "protocol": 2,
+  "commit": "14a150f",
+  "branch": "claude/kaskader",
   "dirty": false,
   "host": "pages",
   "errorReports": null,
-  "built": "2026-10-25T19:29:09.049Z",
-  "bytes": 25947282,
+  "built": "2026-10-26T08:11:54.243Z",
+  "bytes": 25966833,
   "files": [
     {
       "path": ".nojekyll",
@@ -52,9 +52,9 @@
       "sha256": "e17ef89e87a044b0557bc96ef0ce5c704b633b37691d65a72ab4e0014407a12f"
     },
     {
-      "path": "assets/browserAll-BpnKcOll.js",
+      "path": "assets/browserAll-D0zMsXer.js",
       "bytes": 43558,
-      "sha256": "edae5dc49da8f66bac196fbb606c8d68b14ecbd57d4c3a32f3d8587f71bdecea"
+      "sha256": "2ac650302525f2de1e0cccaf02f667395efa369adc2ad313ce1b9e5bf8d1ac5b"
     },
     {
       "path": "assets/canvasUtils-CKP7VAtb.js",
@@ -72,14 +72,14 @@
       "sha256": "ab384ec74bc9dba36d46c038404b4ae20f7540a2032bad75a5a50b2fd67feed6"
     },
     {
-      "path": "assets/index-CwftsZZm.css",
-      "bytes": 48541,
-      "sha256": "a2b99533a993ad05b8027207e0df811084023103d42d7b2d9dc2d609758ec761"
+      "path": "assets/index-CmmeAQ-P.js",
+      "bytes": 805833,
+      "sha256": "5ff567c2e7622c87b547511994429924c2e1afc4ad6da129f0cc1841e9327770"
     },
     {
-      "path": "assets/index-fJ2SpVzX.js",
-      "bytes": 795373,
-      "sha256": "92fa5987a0696860e7b9953e42f31de35d2755e7162322e9b3bfc6d84c6f8f57"
+      "path": "assets/index-D6trmmS4.css",
+      "bytes": 49820,
+      "sha256": "c9bc5a3825e92d9ff0341804c02c2291529042c3787a0a575b6e2646fcd8a4ae"
     },
     {
       "path": "assets/init-CHaM1RWH.js",
@@ -87,14 +87,14 @@
       "sha256": "2715ed01abef00972fb4e05637000f93d52077d884c717eadab5f162682c5dec"
     },
     {
-      "path": "assets/webworkerAll-BEyqVj7w.js",
+      "path": "assets/webworkerAll-DZZHIHoh.js",
       "bytes": 55,
-      "sha256": "4c6c1487b91ab92ec91b078f80dd9ba2c81fe35ae7eef8b1491bc582db5591b2"
+      "sha256": "758a753a7b5e5f4593c75c237a5b8bb53df74a911c70c87ded9d75934fd2a6f8"
     },
     {
-      "path": "assets/worker-CcUBNFnS.js",
-      "bytes": 102353,
-      "sha256": "c0a6bf47461b47e13f98aed0129c7ee405d232aad52017d6146ff084644139db"
+      "path": "assets/worker--XjV6I3-.js",
+      "bytes": 110165,
+      "sha256": "eaec0a282e854595a2b605b5b23a229b9256bc71ee2c8f4ab558999916f48fad"
     },
     {
       "path": "audio/manifest.json",
@@ -254,7 +254,7 @@
     {
       "path": "index.html",
       "bytes": 6269,
-      "sha256": "de81d13b4986ead9c1c204c5559a4f18bb1097cece568a6f8d9de30c4c375b66"
+      "sha256": "098f2965f74dc786518846fcab8fca8a110858649927567b8c6774159775553f"
     },
     {
       "path": "konst/atlas/bas/bakgrund-grund/bakgrund-grund-liggande.basis.ktx2",
